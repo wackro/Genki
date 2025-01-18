@@ -1,6 +1,6 @@
 ##### Counting people
 ひとり（一人）、ふたり（二人）、三人。。。
-  　
+  
   ☝️Location に people が　quantity　います。
   No particle before います！
   
