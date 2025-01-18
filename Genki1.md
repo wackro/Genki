@@ -7,7 +7,7 @@
   e.g. へやに学生が六人います。
 
 ##### Purpose of a trip
-☝️Location に　verb stem　に 行きます。
+  ☝️Location に　verb stem　に 行きます。
   
   e.g.　カフェ**に**コーヒーを飲み**に**行きます。
   
