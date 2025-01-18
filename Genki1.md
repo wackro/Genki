@@ -12,7 +12,7 @@
   e.g.　カフェ**に**コーヒーを飲み**に**行きます。
   
   ナオミさんはともだちのうちに**何をしに**行きますから？
-  What is Naomi going to do at her friend's house?
+    What is Naomi going to do at her friend's house?
 
 ##### Informal speech (short form)
 |　| affirmative | か |　ね　or よ　｜
