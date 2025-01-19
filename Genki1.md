@@ -121,4 +121,4 @@ Mary likes playing tennis.
 Mary likes tennis.
 
 すきでも きらいでも ないです。\
-I neither like it nor dislike it.\
+I neither like it nor dislike it.
