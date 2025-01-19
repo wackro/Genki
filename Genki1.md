@@ -98,7 +98,7 @@ What did Ken say?
 まだけさない**でください。**
 Please don't erase.
 
-Q: けすもいいですか。
+Q: けすもいいですか。\
 A: けすはいけません。(you mustn't) / けさないでください (please don't) ← better answer
 
 ##### Being good/bad at...
