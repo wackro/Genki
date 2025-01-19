@@ -130,13 +130,13 @@ A：けんさん**が**ねています。
 Always answer using the same particle (because it repeats the emphasis).
 
 ##### なにか(something) and なにも (not... anything)
-何かもっていきましょうか。
+何かもっていきましょうか。\
 Shall I bring something?
 
-何もいりません。
+何もいりません。\
 We don't need anything
 
-何もいらないと思います。
+何もいらないと思います。\
 I don't think we need anything
 
 ☝️何も always uses negative.
