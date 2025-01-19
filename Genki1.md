@@ -11,7 +11,7 @@ e.g. へやに学生が六人います。
 
  e.g.　カフェ**に**コーヒーを飲み**に**行きます。
   
-ナオミさんはともだちのうちに**何をしに**行きますから？\
+ナオミさんはともだちのうちに**何をしに**行きますか？\
 What is Naomi going to do at her friend's house?
 
 ##### Informal speech (short form)
@@ -80,22 +80,22 @@ What (***how***) do you think **about** the university cafeteria?
 I think **so** **too**.
 
 ##### Reporting speech (somebody said...)
-☝️Short form と言っています。
+☝️Short form と言っていました。
 
-メアリさんはいそがしい**といっています**。\
+メアリさんはいそがしい**といっていました**。\
 Mary said (was saying) she's busy.
 
-メアリさんはざっしを読まないといっています\
+メアリさんはざっしを読まないといっていました\
 Mary said she doesn't read magazines.
 
-けんさんは**なんと**言っていますか。\
+けんさんは**なんと**言っていましたか。\
 What did Ken say? 
 
 ##### Please don't...
 
 ☝️ない form **で ください**
 
-けさない**でください。**
+まだけさない**でください。**
 Please don't erase.
 
 Q: けすもいいですか。
@@ -122,3 +122,9 @@ Mary likes tennis.
 
 すきでも きらいでも ないです。\
 I neither like it nor dislike it.
+
+##### が (emphasis particle)
+Q：だれ**が**ざっしをねていますか。(*Who* is sleeping?)\
+A：けんさん**が**ねています。
+
+Always answer using the same particle.
