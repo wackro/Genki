@@ -64,5 +64,32 @@ Verb： 日本語をはなしますよ。　→　 日本語をはなす**よ**�
   
 ###### ☝️noun:
   drop です
-  
+
   けんさんは中国人じゃないです。　→　けんさんは中国人**じゃない**。
+
+##### Expressing an opinion (I think...)
+
+☝️I think that ＿＿＿　→　short form **と**思います。\
+
+e.g. これは　タオルだ　と　思います。(i think this is a towel)
+これは　タオルじゃない　と　思います。(i don't think this is a towel)
+
+大学のしょくどう　**について**　**どう**　思いますか。
+What (***how***) do you think **about** the university cafeteria?
+
+私　**も**　**そう**　おもいます。
+I think **so** **too**.
+
+##### Reporting speech (somebody said...)
+
+☝️Short form と言っています。
+
+メアリさんはいそがしい**といっています**。
+Mary said (**was saying**) she's busy.
+
+メアリさんはざっしを読まないといっています
+Mary said she doesn't read magazines.
+
+けんさんは**なんと**言っていますか。
+What did Ken say? 
+
