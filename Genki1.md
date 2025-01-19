@@ -71,13 +71,13 @@ Verb： 日本語をはなしますよ。　→　 日本語をはなす**よ**�
 
 ☝️I think that ＿＿＿　→　short form **と**思います。
 
-e.g. これは　タオルだ　と　思います。(i think this is a towel)
+e.g. これは　タオルだ　と　思います。(i think this is a towel)\
 これは　タオルじゃない　と　思います。(i don't think this is a towel)
 
-大学のしょくどう　**について**　**どう**　思いますか。
+大学のしょくどう　**について**　**どう**　思いますか。\
 What (***how***) do you think **about** the university cafeteria?
 
-私　**も**　**そう**　おもいます。
+私　**も**　**そう**　おもいます。\
 I think **so** **too**.
 
 ##### Reporting speech (somebody said...)
