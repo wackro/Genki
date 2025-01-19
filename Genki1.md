@@ -69,7 +69,7 @@ Verb： 日本語をはなしますよ。　→　 日本語をはなす**よ**�
 
 ##### Expressing an opinion (I think...)
 
-☝️I think that ＿＿＿　→　short form **と**思います。\
+☝️I think that ＿＿＿　→　short form **と**思います。
 
 e.g. これは　タオルだ　と　思います。(i think this is a towel)
 これは　タオルじゃない　と　思います。(i don't think this is a towel)
@@ -84,12 +84,12 @@ I think **so** **too**.
 
 ☝️Short form と言っています。
 
-メアリさんはいそがしい**といっています**。
+メアリさんはいそがしい**といっています**。\
 Mary said (**was saying**) she's busy.
 
-メアリさんはざっしを読まないといっています
+メアリさんはざっしを読まないといっています\
 Mary said she doesn't read magazines.
 
-けんさんは**なんと**言っていますか。
+けんさんは**なんと**言っていますか。\
 What did Ken say? 
 
