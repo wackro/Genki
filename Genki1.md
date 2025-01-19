@@ -127,4 +127,17 @@ I neither like it nor dislike it.
 Q：だれ**が**ざっしをねていますか。(*Who* is sleeping?)\
 A：けんさん**が**ねています。
 
-Always answer using the same particle.
+Always answer using the same particle (because it repeats the emphasis).
+
+##### なにか(something) and なにも (not... anything)
+何かもっていきましょうか。
+Shall I bring something?
+
+何もいりません。
+We don't need anything
+
+何もいらないと思います。
+I don't think we need anything
+
+☝️何も always uses negative.
+
