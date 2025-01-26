@@ -1,3 +1,75 @@
+# Level 1 Part 2
+
+# Level 1 Part 3
+
+_______________
+
+# Level 2 Part 1 Week 1 + 2
+
+##### Adjective conjugations
+###### Affirmative
+| Verb type | Present | Past |
+| - | - | - |
+| ひま（な）| ひまです | ひまでした　|
+| おいしい　| おいしいです　| おいしかったです |
+| いい | いいです |　よかったです |
+
+###### Negative
+|Verb type|Present|Past|
+|-|-|-|
+|ひま（な）|ひまじゃないです|ひまじゃなかったです|
+|おいしい|おいしくないです|おいしくなかったです|
+|いい|よくないです|よくなかったです|
+
+##### Negative sentence alternative
+じゃありません\
+☝️ じゃ　＋　ある negative
+
+##### Action in progress
+チョウさんは**読んでい**ます - Cho is reading
+チョウさんは**ねていました** - Cho was sleeping
+
+☝️ te-form + いる = ている-form\
+☝️ can only be used with Activity verbs (食べる、飲む), not Change (しぬ、来る、おきる、帰る) or Status (いる、ある) verbs
+
+##### Describing occupation
+私は日本語のきょうしを**しています**。\
+I'm a Japanese teacher
+
+私は日本語を**おしえています**。\
+I teach japanese (as an opccupation)
+
+私はキングスで**はたらいています**。\
+I work at King's College.
+
+私はソニーで**はたらいています**。\
+I work for Sony.
+
+私はソフトエンジニアを**しています**。\
+I'm a software engineer
+
+私はソフトを**作っています**。\
+I make software.
+
+お仕事はなんですか。/ お仕事はなにを**していますか**。
+
+
+# Level 2 Part 1 Week 3 + 4
+
+# Level 2 Part 1 Week 5 + 6
+
+# Level 2 Part 1 Week 7 + 8
+
+# Level 2 Part 1 Week 9 + 10
+
+____________________
+
+# Level 2 Part 2 Week 1 + 2
+
+# Level 2 Part 2 Week 3 + 4
+
+_____
+
 ##### Counting people
 ひとり（一人）、ふたり（二人）、三人。。。
 
@@ -41,7 +113,8 @@ na-adj:  元気ですね。→　 元気**だね**。\
 noun:  学生ですよ。→　 学生**だよ**。
 
 ##### Short form negative (ない　form)
-###### ☝️る-verb: **drop る** and **add ない**  
+###### ☝️る-verb:
+drop る and **add ない**  
   
 見る　→　見ない\
 見ている　→　見ていない\
