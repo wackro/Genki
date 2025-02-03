@@ -214,3 +214,29 @@ I don't think we need anything
 
 ☝️何も always uses negative.
 
+##### た-form
+Same as て-form but て→た　and で→だ
+
+e.g. 行って　→　行**った**　　　　のんで　→　の**んだ**
+
+##### Short form past verb
+☝️た-form\
+e.g. 話しました　(long form)　→　話し**た** (short form)
+
+##### Short form past negative verb
+☝️＿なかった (ない-form + かった)
+e.g. 話さ**なかった**
+
+##### Short form past adjective + noun
+い-adj: たのし**かった**
+な_adj: ざんねん**だった**
+noun: いい天気**だった**
+
+##### Short form past negative
+い-adj: たのし**くなかった**
+な_adj: ざんねん**じゃなかった**
+
+##### Talk about the past (informal)
+Q: きのう、テレビをみる？
+A: うん、みた。(Yes)
+A: ううん、みなかった。(No)
