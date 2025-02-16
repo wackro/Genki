@@ -260,7 +260,8 @@ Same as て-form but て→た　and で→だ
 e.g. 行って　→　行**った**　　　　のんで　→　の**んだ**
 
 ##### Short form past verb
-☝️た-form\
+☝️た-form
+
 e.g. 話しました　(long form)　→　話し**た** (short form)
 
 ##### Short form past negative verb
@@ -290,3 +291,21 @@ Ken said he just woke up.
 
 お父さんは、わかい時　マイクルジャクソンがすき**だった**と言っていました。
 My dad said he liked Michael Jackson when he was young
+
+##### Giving an opinion about the past
+☝️Short form past + と思います
+
+メアリさんはこどもの時、あたまがよかったとおもいます。
+I think Mary was clever when she was a child
+
+##### I've already done it/haven't done it yet.
+☝️もう＿＿＿ました
+
+**もう**レポートをかきました
+I've **already** written the report
+
+☝️まだ＿＿＿ていません
+
+まだレポートをかいていません
+I haven't written the report yet
+
