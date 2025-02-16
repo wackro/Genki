@@ -1,14 +1,91 @@
-# Level 1 Part 2
+##### ます form
+Vowel shift う　→　い\
+帰る　→　帰ります
 
-### Level 1 Part 2 Week 1
-### Level 1 Part 2 Week 2
-### Level 1 Part 2 Week 3
+##### Location of activity
+けんさんはどこでコーヒーをのみますか。\
+Where does Ken drink coffee?
+
+##### Goal of movement
+チョーさんは大学**に**いきます\
+チョーさんは大学**へ**いきます (pronounced え)
+
+##### に as a time particle
+ソラさんは九月時大学**に**行きます。
+
+☝️に is used for: numerical times, days of the week, occasions
+
+Not used for: ごぜん、あさ、ごご、今日、etc
+
+##### Usually/at about
+Q: **たいてい**何時におきますか。
+A: 八時**ごろ**おきます。
+
+##### Question words
+だれ　who
+だれの　whose
+いつ　when
+どうして　why
+どこ　where
+何　what
+どれ which
+どの　which (object)
+どう　how
+
+##### Natural word order
+Word order is flexible - particles put the sentence together. But, most natural word order is:\
+time に location で subject は object を verb
+
+##### Would you like to...
+☝️negativeか
+
+Q: おんがくを**聞きません**か。
+A: いいですね。
+A: すみません、ちょっと。。。
+
+##### Location で/location に
+としょかん**で**べんきょうします。(location + action)\
+ジム**に**行きます。(location + movement)
+
+##### Frequency words
+
+1. 毎日
+2. よく
+3. ときどき
+4. あまり （+ negative）
+5. ぜんぜん （+ negative）
+
+##### います/あります
+☝️Things が います / あります
+人があります
+
+☝️Location **に** things が います / あります (*not* で)
+こうえん**に**いぬがいます (there is a dog in the park)
+
+☝️Schedule が　あります
+仕事があります。
+
+#####
+#####
+
+"Location words - not simply to and at/in"\
+Location particles
+
 ### Level 1 Part 2 Week 4
 ### Level 1 Part 2 Week 5
 ### Level 1 Part 2 Week 6
 ### Level 1 Part 2 Week 7
+Location words + no
+
 ### Level 1 Part 2 Week 8
+Mae - ago\
+Mo - too/as well\
+Quantity\
+Duration of activity (jikan) [+goro, gurai]
+
 ### Level 1 Part 2 Week 9
+Months + dates
+
 ### Level 1 Part 2 Week 10
 
 # Level 1 Part 3
@@ -309,3 +386,11 @@ I've **already** written the report
 **まだ**レポートをかい**ていません**
 I haven't written the report yet
 
+##### Explaning reasons
+テストがあわったから、カラオケに行きませんか。(putting the reason first is most natural)
+
+##### The person who is (verb)ing
+メアリはあそこで雑誌を読んでいる人です。\
+Mary is the person over there who is reading
+
+☝️(verb) ている人
