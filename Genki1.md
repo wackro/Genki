@@ -1,10 +1,32 @@
 # Level 1 Part 2
 
+### Level 1 Part 2 Week 1
+### Level 1 Part 2 Week 2
+### Level 1 Part 2 Week 3
+### Level 1 Part 2 Week 4
+### Level 1 Part 2 Week 5
+### Level 1 Part 2 Week 6
+### Level 1 Part 2 Week 7
+### Level 1 Part 2 Week 8
+### Level 1 Part 2 Week 9
+### Level 1 Part 2 Week 10
+
 # Level 1 Part 3
+
+### Level 1 Part 3 Week 1
+### Level 1 Part 3 Week 2
+### Level 1 Part 3 Week 3
+### Level 1 Part 3 Week 4
+### Level 1 Part 3 Week 5
+### Level 1 Part 3 Week 6
+### Level 1 Part 3 Week 7
+### Level 1 Part 3 Week 8
+### Level 1 Part 3 Week 9
+### Level 1 Part 3 Week 10
 
 _______________
 
-# Level 2 Part 1 Week 1 + 2
+# Level 2
 
 ##### Adjective conjugations
 ###### Affirmative
@@ -53,22 +75,40 @@ I make software.
 
 お仕事はなんですか。/ お仕事はなにを**していますか**。
 
+##### ~ている
+3 uses:\
+Ongoing actions - 本を読んでいます - I'm reading a book\
+Describing occupation　‐　ソニーではたらいています\
 
-# Level 2 Part 1 Week 3 + 4
+☝️ Resultant state (change verbs)　‐　けっこんしています　(the action of getting married happened, and now i am married)\
 
-# Level 2 Part 1 Week 5 + 6
+なおみはやせています　‐ Naomi is slim\
+ロバートさんは ジーンズを はいています - Robert is wearing jeans\
+猫は おきています - The cat is awake\
+かぞくは ロンドンに すんでいます - My family lives in London\
+メアリーさんを しっていますか - Do you know Mary?\
+けんさんは お金を あまり もっていません - Ken doesn’t have much money (あまり)
 
-# Level 2 Part 1 Week 7 + 8
+##### Describing people with adjectives
+☝️ Person は　body part　が　adj です
 
-# Level 2 Part 1 Week 9 + 10
+そらさんはかみがながいです
+Sora san's hair is long
 
-____________________
+##### Connecting adjectives
+☝️ Use て-form
 
-# Level 2 Part 2 Week 1 + 2
+i-adj: かわい**くて**
+na-adj: しずか**で**
 
-# Level 2 Part 2 Week 3 + 4
+ゆいはしずかで、あたまがいいです
+Yui is quiet and clever
 
-_____
+##### Contrasting ideas (..., but)
+☝️ Full sentence が _______.
+
+けんさんのいえはふるいですが、やさいです。
+Ken's house is old but cheap
 
 ##### Counting people
 ひとり（一人）、ふたり（二人）、三人。。。
@@ -241,3 +281,12 @@ noun: いい天気**だった**
 Q: きのう、テレビをみる？\
 A: うん、みた。(Yes)\
 A: ううん、みなかった。(No)
+
+##### Quoting the past
+☝️Short form past + と言っていました
+
+けんさんはおき**た**と言っていました。
+Ken said he just woke up.
+
+お父さんは、わかい時　マイクルジャクソンがすき**だった**と言っていました。
+My dad said he liked Michael Jackson when he was young
