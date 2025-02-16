@@ -306,6 +306,6 @@ I've **already** written the report
 
 ☝️まだ＿＿＿ていません
 
-まだレポートをかいていません
+**まだ**レポートをかい**ていません**
 I haven't written the report yet
 
