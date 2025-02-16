@@ -361,18 +361,18 @@ A: うん、みた。(Yes)\
 A: ううん、みなかった。(No)
 
 ##### Quoting the past
-☝️Short form past + と言っていました
+☝️Short form past + と言っていました\
 
-けんさんはおき**た**と言っていました。
+けんさんはおき**た**と言っていました。\
 Ken said he just woke up.
 
-お父さんは、わかい時　マイクルジャクソンがすき**だった**と言っていました。
+お父さんは、わかい時　マイクルジャクソンがすき**だった**と言っていました。\
 My dad said he liked Michael Jackson when he was young
 
 ##### Giving an opinion about the past
 ☝️Short form past + と思います
 
-メアリさんはこどもの時、あたまがよかったとおもいます。
+メアリさんはこどもの時、あたまがよかったとおもいます。\
 I think Mary was clever when she was a child
 
 ##### I've already done it/haven't done it yet.
