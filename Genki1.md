@@ -65,26 +65,64 @@ A: すみません、ちょっと。。。
 ☝️Schedule が　あります
 仕事があります。
 
-#####
-#####
+##### Location words - not simply to and at/in
+に and で aren't just to/at/in.
 
-"Location words - not simply to and at/in"\
-Location particles
+Location に movement
+Location で activity
+Location に there is/are (がっこう**に**カフェが あります。)
 
-### Level 1 Part 2 Week 4
-### Level 1 Part 2 Week 5
-### Level 1 Part 2 Week 6
-### Level 1 Part 2 Week 7
-Location words + no
+##### Describing location
+バスていはぎんこうのまえです。\
+The bus stop is in front of the bank
 
-### Level 1 Part 2 Week 8
-Mae - ago\
-Mo - too/as well\
-Quantity\
-Duration of activity (jikan) [+goro, gurai]
+じしょはつくえのうえです。\
+The dictionary is on the desk
 
-### Level 1 Part 2 Week 9
-Months + dates
+##### ... years ago
+一年 - 1 year
+一年**まえ** - 1 year ago
+十年**まえ** - 10 years ago
+
+まえ means 'front', but refers backwards in time
+
+##### も - too/as well
+メアリーさんはハンバーガー**を**たべました。\
+メアリーさんはうどん**も**たべました。
+
+☝️も comes after the word that's different
+☝️も *replaces* は, が, を
+
+メアリーさんはおてら**に**いきました。\
+メアリーさんはスーパー**にも**いきました。
+
+☝️も goes *after* all other particles e.g.　に, で, と...
+
+##### たくさん - many
+たくさんしゃしんをとりました。
+しゃしんをたくさんとりました。
+バスがたくさんあります。
+
+☝️Object first is more natural
+
+##### じかん - duration in hours
+メアリーさんは**十時ごろ**ねました。(about 10 o'clock)
+メアリーさんは**八時かんぐらい**ねました。(about 8 hours)
+
+ごろ for approx time
+ぐらい for approx *duration*
+
+##### Dates of the month
+1st-10th: ついたち、ふつか、みっか、よっか、いつか、むいか、なのか、ようか、ここのか、とうか
+
+continuing...\
+じゅういちにち、じゅうににち etc...
+
+
+Irregularities:\
+14th: じゅうよっか\
+20th: はつか\
+24th: にじゅうよっか
 
 ### Level 1 Part 2 Week 10
 
