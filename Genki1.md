@@ -163,7 +163,7 @@ _______________
 チョウさんは**読んでい**ます - Cho is reading
 チョウさんは**ねていました** - Cho was sleeping
 
-☝️ te-form + いる = ている-form\
+☝️ te-form + いる = ている-form
 ☝️ can only be used with Activity verbs (食べる、飲む), not Change (しぬ、来る、おきる、帰る) or Status (いる、ある) verbs
 
 ##### Describing occupation
@@ -190,9 +190,9 @@ I make software.
 ##### ~ている
 3 uses:\
 Ongoing actions - 本を読んでいます - I'm reading a book\
-Describing occupation　‐　ソニーではたらいています\
+Describing occupation　‐　ソニーではたらいています
 
-☝️ Resultant state (change verbs)　‐　けっこんしています　(the action of getting married happened, and now i am married)\
+☝️ Resultant state (change verbs)　‐　けっこんしています　(the action of getting married happened, and now i am married)
 
 なおみはやせています　‐ Naomi is slim\
 ロバートさんは ジーンズを はいています - Robert is wearing jeans\
@@ -274,7 +274,7 @@ drop る and **add ない**
 e.g. Q: えいがを 見る？ A: ううん、見ない。
  
 ###### ☝️う-verb:
-vowel shift **_u**　 →　**_aない**\
+vowel shift **_u**　 →　**_aない**
 
 e.g.　行く　→　行かない\
 飲む　→　飲まない\
@@ -437,9 +437,9 @@ Mary is the person over there who is reading
 Which one is easier, Japanese or English?
 
 Can be shortened to:\
-日本語**と**英語**とどちらが**かんてんですか。\
+日本語**と**英語**とどちらが**かんてんですか。
 
-☝️Question: A　と　B　と　どちら（のほう）が　description?\
+☝️Question: A　と　B　と　どちら（のほう）が　description?
 
 英語**のほうが**日本語**より**背が高いです。\
 English is easier than Japanese
@@ -452,8 +452,8 @@ or...
 ☝️B　より　A　のほうが
 
 ###### Which one do you prefer？
-ケーキ　と　チョコレート　と　どちら　の　ほう　が　**いいですか**。\
+ケーキ**と**チョコレート**と** **どちらのほうが** **いいですか**。\
 Do you prefer cake or chocolate?
 
-チョコレート　の　ほう　が　（ケーキ　より）いいです。
+チョコレートのほうが（ケーキ　より）いいです。\
 I prefer chocolate
