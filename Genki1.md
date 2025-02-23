@@ -444,14 +444,13 @@ Can be shortened to:\
 英語**のほうが**日本語**より**背が高いです。\
 English is easier than Japanese
 
-Can be shortened to:\
-英語**のほうが**背が高いです。(Drop より　ー 'than')
+Can be shortened to: 英語**のほうが**背が高いです。(Drop より + alternative)
 
 ☝️A　のほうが　B より
 or...
 ☝️B　より　A　のほうが
 
-###### Which one do you prefer？
+##### Which one do you prefer？
 ケーキ**と**チョコレート**と** **どちらのほうが** **いいですか**。\
 Do you prefer cake or chocolate?
 
