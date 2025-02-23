@@ -269,7 +269,7 @@ noun:  学生ですよ。→　 学生**だよ**。
 drop る and **add ない**  
   
 見る　→　見ない\
-見ている　→　見ていない\
+見ている　→　見ていない
 
 e.g. Q: えいがを 見る？ A: ううん、見ない。
  
@@ -396,7 +396,7 @@ A: うん、みた。(Yes)\
 A: ううん、みなかった。(No)
 
 ##### Quoting the past
-☝️Short form past + と言っていました\
+☝️Short form past + と言っていました
 
 けんさんはおき**た**と言っていました。\
 Ken said he just woke up.
