@@ -389,8 +389,36 @@ I haven't written the report yet
 ##### Explaning reasons
 テストがあわったから、カラオケに行きませんか。(putting the reason first is most natural)
 
+The reason is in short form, and the sentence ends long form. 'Semi-formal'
+
 ##### The person who is (verb)ing
-メアリはあそこで雑誌を読んでいる人です。\
+メアリはあそこで雑誌を読ん**でいる人**です。\
 Mary is the person over there who is reading
 
 ☝️(verb) ている人
+
+##### Which one is more? / A is more than B
+日本語**と**英語**と**　**どちらのほうが**　かんてんですか。\
+Which one is easier, Japanese or English?
+
+Can be shortened to:\
+日本語**と**英語**とどちらが**かんてんですか。\
+
+☝️Question: A　と　B　と　どちら（のほう）が　description?\
+
+英語**のほうが**日本語**より**背が高いです。\
+English is easier than Japanese
+
+Can be shortened to:\
+英語**のほうが**背が高いです。(Drop より　ー 'than')
+
+☝️A　のほうが　B より
+or...
+☝️B　より　A　のほうが
+
+###### Which one do you prefer？
+ケーキ　と　チョコレート　と　どちら　の　ほう　が　**いいですか**。\
+Do you prefer cake or chocolate?
+
+チョコレート　の　ほう　が　（ケーキ　より）いいです。
+I prefer chocolate
