@@ -118,13 +118,10 @@ The dictionary is on the desk
 continuing...\
 じゅういちにち、じゅうににち etc...
 
-
 Irregularities:\
 14th: じゅうよっか\
 20th: はつか\
 24th: にじゅうよっか
-
-### Level 1 Part 2 Week 10
 
 # Level 1 Part 3
 
