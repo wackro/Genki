@@ -126,6 +126,7 @@ Irregularities:\
 # Level 1 Part 3
 
 ### Level 1 Part 3 Week 1
+
 ### Level 1 Part 3 Week 2
 ### Level 1 Part 3 Week 3
 ### Level 1 Part 3 Week 4
@@ -155,16 +156,19 @@ _______________
 |おいしい|おいしくないです|おいしくなかったです|
 |いい|よくないです|よくなかったです|
 
-##### Negative sentence alternative
-じゃありません\
-☝️ じゃ　＋　ある negative
+##### Alernative polite negative
+メアリーは日本人**じゃありません**。
+
+☝️ じゃ + verb ある negative
 
 ##### Action in progress
-チョウさんは**読んでい**ます - Cho is reading
-チョウさんは**ねていました** - Cho was sleeping
+チョーは雑誌を**よんでいる**\
+Cho is eating
 
-☝️ te-form + いる = ている-form
-☝️ can only be used with Activity verbs (食べる、飲む), not Change (しぬ、来る、おきる、帰る) or Status (いる、ある) verbs
+☝️て-form + いる = ている form
+
+But this only applies to durative verbs (ones that describe ongoing action)\
+e.g. たべる、のむ. 
 
 ##### Describing occupation
 私は日本語のきょうしを**しています**。\
@@ -456,3 +460,38 @@ Do you prefer cake or chocolate?
 
 チョコレートのほうが（ケーキ　より）いいです。\
 I prefer chocolate
+
+##### Comparing three or more things
+東京スカイツリーがいちばん高いです\
+Tokyo Skytree is the tallest
+
+☝️ A が いちばん...
+
+ロシアとカナダと中国 **のなかで** どれがいちばんおおきいですか。\
+Out of Russia, Canada and China, which is biggest?
+
+☝️ Among (category), which one is the most...?\
+Category のなかで どれ が いちばん... ですか。
+or... AとBとC のなかで...
+or... このなかで...
+
+##### Adjective/noun + の
+やすい**の**をください。(The cheap one please)
+白い**の**とくろい**の**がありますが、どちらがいいですか。(We've got a white one and a black one. Which one do you want?)
+じゃあ、白い**の**をおねがいします。(Well, the white one please)
+
+☝️ Adjective + noun → adjective の\
+きれいくつ　→　きれいなの\
+新しいくつ　→　新しいの
+
+☝️ Noun のnoun 2　→　noun の
+私のかさ (my umbrella)　→　私の (mine)
+
+##### Future intentions
+今からべんきょうするつもりです。\
+I intend to study from now.
+
+休みにべんきょうしないつもりです。
+I intend not to study on holiday.
+
+☝️ Intention short form + つもり（だ）
