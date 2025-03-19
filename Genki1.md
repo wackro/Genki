@@ -481,17 +481,58 @@ or... このなかで...
 じゃあ、白い**の**をおねがいします。(Well, the white one please)
 
 ☝️ Adjective + noun → adjective の\
-きれいくつ　→　きれいなの\
-新しいくつ　→　新しいの
+きれいくつ → きれい**な**の\
+新しいくつ → 新しいの
 
-☝️ Noun のnoun 2　→　noun の
-私のかさ (my umbrella)　→　私の (mine)
+☝️ Noun のnoun 2 → noun の
+私のかさ (my umbrella) → 私の (mine)
 
 ##### Future intentions
-今からべんきょうするつもりです。\
+今からべんきょうする**つもり**です。\
 I intend to study from now.
 
 休みにべんきょうしないつもりです。
 I intend not to study on holiday.
 
 ☝️ Intention short form + つもり（だ）
+
+##### Become... (なる)
+あたたか**く**にありましたね。\
+It's become warm hasn't it?
+
+せがたか**く**になったね。(casual)\
+You've got tall haven't you?
+
+日本語がじょうず**に**なりましたね。(na-adj)\
+You've got good at Japanese haven't you?
+
+ゆうめいじいん**に**なったよ。(noun)\
+I've become a famous person.
+
+☝️　い　→　くなる\
+☝️　な　→　になる
+
+##### Something and not anything　(何か and　何も)
+何か (something)。何も (not anything)\
+**どこか** (somewhere)。**どこも** (not anywhere)\
+**だれか** (somebody)。**だれも** (not anybody)
+
+しゅうまつ**どこか**に行きましたか。\
+Did you go anywhere at the weekend?
+
+僕は**どこ**に**も**いきませんでした。(the particle に goes in the middle)\
+I didn't go anywhere at the weekend
+
+**だれも**いませんでした。\
+There was nobody about.
+
+だれか**と**行きましたか。(Did you go **with** someone?)\
+たれ**と**もいきませんでした。(I didn't go **with** anyone)\
+どこか**で**休みましたか。(Did you rest somewhere?)\
+どこ**で**も休みませんでした。(I didn't rest anywhere)\
+何か**に**すわりましたか。(Did you sit down somewhere?)\
+何**に**もすわりませんでした。(I didn't sit down anywhere)\
+だれかしっていますか。(Did you know someone?)\
+だれもしっていません。(I didn't know anyone)
+
+☝️ 何か and　何も replace **は**、**が**　and **を**, but you still need other particles like　に、へ、で、と...
