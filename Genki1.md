@@ -497,7 +497,7 @@ I intend not to study on holiday.
 ☝️ Intention short form + つもり（だ）
 
 ##### Become... (なる)
-あたたか**く**にありましたね。\
+あたたか**く**になりましたね。\
 It's become warm hasn't it?
 
 せがたか**く**になったね。(casual)\
@@ -509,8 +509,8 @@ You've got good at Japanese haven't you?
 ゆうめいじいん**に**なったよ。(noun)\
 I've become a famous person.
 
-☝️　い　→　くなる\
-☝️　な　→　になる
+☝️　い　→　**く**なる\
+☝️　な　→　**に**なる
 
 ##### Something and not anything　(何か and　何も)
 何か (something)。何も (not anything)\
@@ -536,3 +536,51 @@ There was nobody about.
 だれもしっていません。(I didn't know anyone)
 
 ☝️ 何か and　何も replace **は**、**が**　and **を**, but you still need other particles like　に、へ、で、と...
+
+☝️ Remember, with object \<particle\> verb, the particle depends whether the verb is transient. Transient/intransient verbs in English are not the same as in Japanese. e.g:
+
+Some transitive verbs:
+
+入る\
+すわる\
+会う\
+電話する\
+出る (to attend)\
+のる
+
+These all need the particle に
+
+☝️ And remember, with location \<particle\> verb, the particle depends on whether there is movement. Location で verb if it's action, and location に verb if it's movement.
+
+☝️ Also, ある and いる **always** use に.
+
+##### By means of...
+ひこうき**で**いきます。\
+I'm going by plane.
+
+はし**で**たべばす。\
+I eat with chopsticks.
+
+**あすいて**いきあす。\
+I'm going on foot (verb て-form)
+
+☝️ Means　で\
+☝️ Tools で\
+☝️ Verb て-form
+
+東京からNYまで**どうやって**行きますか。\
+How are you going from Tokyo to New York?
+
+東京からNYまで**どのぐらい**かかりますか。\
+From Tokyo to New York, how long does it take?
+
+東京からNYまで**十三時間くらい**かかります。\
+From Tokyo to New York it takes about 13 hours?
+
+##### Counters for time durations
+ふん、ぷん - minutes
+じかん - hours
+にち (2-10 か) - days
+じゅうかん - weeks
+かげつ - months
+ねん - years
