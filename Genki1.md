@@ -583,9 +583,9 @@ From Tokyo to New York, how long does it take?
 From Tokyo to New York it takes about 13 hours?
 
 ##### Counters for time durations
-ふん、ぷん - minutes
-じかん - hours
-にち (2-10 か) - days
-じゅうかん - weeks
-かげつ - months
+ふん、ぷん - minutes\
+じかん - hours\
+にち (2-10 か) - days\
+じゅうかん - weeks\
+かげつ - months\
 ねん - years
