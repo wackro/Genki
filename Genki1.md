@@ -476,9 +476,14 @@ or... AとBとC のなかで...
 or... このなかで...
 
 ##### Adjective/noun + の
-やすい**の**をください。(The cheap one please)
-白い**の**とくろい**の**がありますが、どちらがいいですか。(We've got a white one and a black one. Which one do you want?)
-じゃあ、白い**の**をおねがいします。(Well, the white one please)
+やすい**の**をください。\
+The cheap one please
+
+白い**の**とくろい**の**がありますが、どちらがいいですか。\
+We've got a white one and a black one. Which one do you want?
+
+じゃあ、白い**の**をおねがいします。\
+Well, the white one please
 
 ☝️ Adjective + noun → adjective の\
 きれいくつ → きれい**な**の\
