@@ -128,9 +128,54 @@ Irregularities:\
 ### Level 1 Part 3 Week 1
 
 ### Level 1 Part 3 Week 2
+##### Na-adj + noun
+あの人はしずかです。\
+That person is quiet.
+
+しずか**な**人に会いました。
+I met a quiet person
+
+☝️ When describing at noun, you keep the な
+
 ### Level 1 Part 3 Week 3
 ### Level 1 Part 3 Week 4
 ### Level 1 Part 3 Week 5
+##### て form
+☝️ る　verbs - just drop the る
+
+☝️ う　verbs conjugate according to a patten:
+
+う、つ、る　→　て\
+む、ぶ、ぬ　→　んで\
+く　→　いて\
+ぐ　→　いで\
+す　→　して
+
+行く　→　行って (exception)
+
+Irregular verbs:\
+する　→　して\
+くる　→　きて
+
+##### てください
+書いてください\
+Please write
+
+☝️ て-form ください
+
+##### Directions
+道を聞く - Ask for directions
+道をおしえる - To give directions
+道をおしえてください - Plese give me directions
+
+電車にのってください - Please get on a train
+電車におりてください - Please get off a train
+
+Charing Cross で Bakerloo line に乗ってください。それかた、Baker Street　で　おりてください。\
+Please get on the Bakerloo Line at Charing Cross. Then please get off at Baker Street.
+
+Regent's Park は Baker Street の ちかくです。- Regent's Park is near Baker Street.
+
 ### Level 1 Part 3 Week 6
 ### Level 1 Part 3 Week 7
 ### Level 1 Part 3 Week 8
