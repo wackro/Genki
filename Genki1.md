@@ -123,11 +123,6 @@ Irregularities:\
 20th: はつか\
 24th: にじゅうよっか
 
-# Level 1 Part 3
-
-### Level 1 Part 3 Week 1
-
-### Level 1 Part 3 Week 2
 ##### Na-adj + noun
 あの人はしずかです。\
 That person is quiet.
@@ -137,9 +132,6 @@ I met a quiet person
 
 ☝️ When describing at noun, you keep the な
 
-### Level 1 Part 3 Week 3
-### Level 1 Part 3 Week 4
-### Level 1 Part 3 Week 5
 ##### て form
 ☝️ る　verbs - just drop the る
 
@@ -176,15 +168,50 @@ Please get on the Bakerloo Line at Charing Cross. Then please get off at Baker S
 
 Regent's Park は Baker Street の ちかくです。- Regent's Park is near Baker Street.
 
-### Level 1 Part 3 Week 6
-### Level 1 Part 3 Week 7
-### Level 1 Part 3 Week 8
-### Level 1 Part 3 Week 9
-### Level 1 Part 3 Week 10
+##### Describing two or more activities
+きっさてんにいって、ざっしを読みます。- I'll go to the cafe then go home and read a magazine
 
-_______________
+おきて、シャワーにのりました。- I woke up and got in the shower.
 
-# Level 2
+☝️ The last verb determines the tense of the whole sentence.
+
+###### Asking for permission
+タバコをすってもいいですか。\
+May I smoke?
+
+☝️ てもいいですか。
+
+ええ、すってもいいですよ。どうぞ。\
+Yeah it's fine. Go ahead.
+
+すみません。ちょっと。\
+Excuse me, but no.
+
+##### Prohibition
+となりの人のテストを見てはいけませんよ。
+
+☝️ てはいけませｎ
+
+##### Shall I/shall we
+まどをあけまましょうか。\
+Shall I close the window?
+
+お茶を飲みましょうか。\
+Shall we drink tea?
+
+☝️ Whether it's 'we' or 'I' simply comes from the context.
+
+##### Because (から)
+いそがしですから、コンサートを行きません。\
+I won't go to the concert because I'm busy.
+
+☝️ reason から situation
+
+##### Buying with quantity
+Lサイズをニまいください。\
+2 L size please
+
+☝️ Word order is object を quantity verb (opposite of english)
 
 ##### Adjective conjugations
 ###### Affirmative
