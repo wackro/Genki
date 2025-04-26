@@ -175,7 +175,7 @@ Regent's Park は Baker Street の ちかくです。- Regent's Park is near Bak
 
 ☝️ The last verb determines the tense of the whole sentence.
 
-###### Asking for permission
+##### Asking for permission
 タバコをすってもいいですか。\
 May I smoke?
 
