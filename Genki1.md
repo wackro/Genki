@@ -675,7 +675,7 @@ I want to swim in the sea
 
 ☝️ たい conjugates like an い adjective
 
-お弁当**が**食べたいです。
+お弁当**が**食べたいです。\
 I want to eat bento
 
 ☝️ Direct object particle is が rather than を
