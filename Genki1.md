@@ -661,3 +661,40 @@ From Tokyo to New York it takes about 13 hours?
 じゅうかん - weeks\
 かげつ - months\
 ねん - years
+
+##### Want to do
+海で泳ぎたいです。\
+I want to swim in the sea
+
+☝️ Verb stem + たい
+
+泳ぎたい - Want to swim\
+待ちたくない - Don't want to wait\
+話したかった - Wanted to speak\
+辞めたくなかった - Didn't want to stop
+
+☝️ たい conjugates like an い adjective
+
+お弁当**が**食べたいです。
+I want to eat bento
+
+☝️ Direct object particle is が rather than を
+
+##### Do you want to..?
+歌舞伎が見に行きたいですか。\
+Do you want to go and see kabuki?
+
+子供の時、しゅくだいがやりたかったですか。\
+When you were a kid did you want to do you homework?
+
+日本語が上手になりたいですか。\
+Do you want to become good at Japanese?
+
+##### たがる　(talking about someone else's wants)
+もえさんは京都に行きたいと言っていました\
+Moe san said she wants to go to Kyoto
+
+もえさんは京都に行き**たがっていました**。\
+(I understand) Moe wants to go to Kyoto
+
+☝️ somebody は verb stem たかっていました。
