@@ -709,10 +709,10 @@ Tomorrow I will make a cake and meet friends, and so on.
 日本で山に登ったり、温泉に入っ**たりする**つもりです。\
 In Japan I intend to climb mountains and go in onsens, and so on.
 
-☝️ do... and do... (and so on)
-☝️ た-formり,た-formりする
-☝️ i.e. a non-exhaustive list, and not necessarily in sequence
-☝️ たり doesn't get affected by anything else (like tense)
+☝️ do... and do... (and so on)\
+☝️ た-formり,た-formりする\
+☝️ i.e. a non-exhaustive list, and not necessarily in sequence\
+☝️ たり doesn't get affected by anything else (like tense)\
 ☝️ the last する determines the tense
 
 はしったり、泳い**だりしたいです**。\
