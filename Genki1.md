@@ -721,7 +721,7 @@ I want to run and swim, and so on.
 ### は + negative sentences
 いいえ、テレビ**は**見ません　← **は** instead of **を**
 
-コーヒー**が**すきですか。\ (Do you like coffee?)
+コーヒー**が**すきですか。(Do you like coffee?)\
 いいえ、コーヒー**は**好きじゃないです。(No I don't)
 
 ☝️ in negative sentences, は is often used instead of the object particles が and を
