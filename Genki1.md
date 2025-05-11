@@ -1,27 +1,27 @@
-##### ます form
+#### ます form
 Vowel shift う　→　い\
 帰る　→　帰ります
 
-##### Location of activity
+#### Location of activity
 けんさんはどこでコーヒーをのみますか。\
 Where does Ken drink coffee?
 
-##### Goal of movement
+#### Goal of movement
 チョーさんは大学**に**いきます\
 チョーさんは大学**へ**いきます (pronounced え)
 
-##### に as a time particle
+#### に as a time particle
 ソラさんは九月時大学**に**行きます。
 
 ☝️に is used for: numerical times, days of the week, occasions
 
 Not used for: ごぜん、あさ、ごご、今日、etc
 
-##### Usually/at about
+#### Usually/at about
 Q: **たいてい**何時におきますか。
 A: 八時**ごろ**おきます。
 
-##### Question words
+#### Question words
 だれ　who
 だれの　whose
 いつ　when
@@ -32,22 +32,22 @@ A: 八時**ごろ**おきます。
 どの　which (object)
 どう　how
 
-##### Natural word order
+#### Natural word order
 Word order is flexible - particles put the sentence together. But, most natural word order is:\
 time に location で subject は object を verb
 
-##### Would you like to...
-☝️negativeか
+#### Would you like to...
+☝️negativeませｎか
 
 Q: おんがくを**聞きません**か。
 A: いいですね。
 A: すみません、ちょっと。。。
 
-##### Location で/location に
+#### Location で/location に
 としょかん**で**べんきょうします。(location + action)\
 ジム**に**行きます。(location + movement)
 
-##### Frequency words
+#### Frequency words
 
 1. 毎日
 2. よく
@@ -55,9 +55,9 @@ A: すみません、ちょっと。。。
 4. あまり （+ negative）
 5. ぜんぜん （+ negative）
 
-##### います/あります
+#### います/あります
 ☝️Things が います / あります
-人があります
+人がいます
 
 ☝️Location **に** things が います / あります (*not* で)
 こうえん**に**いぬがいます (there is a dog in the park)
@@ -65,28 +65,28 @@ A: すみません、ちょっと。。。
 ☝️Schedule が　あります
 仕事があります。
 
-##### Location words - not simply to and at/in
+#### Location words - not simply to and at/in
 に and で aren't just to/at/in.
 
 Location に movement
 Location で activity
 Location に there is/are (がっこう**に**カフェが あります。)
 
-##### Describing location
+#### Describing location
 バスていはぎんこうのまえです。\
 The bus stop is in front of the bank
 
 じしょはつくえのうえです。\
 The dictionary is on the desk
 
-##### ... years ago
+#### ... years ago
 一年 - 1 year
 一年**まえ** - 1 year ago
 十年**まえ** - 10 years ago
 
 まえ means 'front', but refers backwards in time
 
-##### も - too/as well
+#### も - too/as well
 メアリーさんはハンバーガー**を**たべました。\
 メアリーさんはうどん**も**たべました。
 
@@ -98,21 +98,21 @@ The dictionary is on the desk
 
 ☝️も goes *after* all other particles e.g.　に, で, と...
 
-##### たくさん - many
+#### たくさん - many
 たくさんしゃしんをとりました。
 しゃしんをたくさんとりました。
 バスがたくさんあります。
 
 ☝️Object first is more natural
 
-##### じかん - duration in hours
+#### じかん - duration in hours
 メアリーさんは**十時ごろ**ねました。(about 10 o'clock)
 メアリーさんは**八時かんぐらい**ねました。(about 8 hours)
 
 ごろ for approx time
 ぐらい for approx *duration*
 
-##### Dates of the month
+#### Dates of the month
 1st-10th: ついたち、ふつか、みっか、よっか、いつか、むいか、なのか、ようか、ここのか、とうか
 
 continuing...\
@@ -123,7 +123,7 @@ Irregularities:\
 20th: はつか\
 24th: にじゅうよっか
 
-##### Na-adj + noun
+#### Na-adj + noun
 あの人はしずかです。\
 That person is quiet.
 
@@ -132,7 +132,7 @@ I met a quiet person
 
 ☝️ When describing at noun, you keep the な
 
-##### て form
+#### て form
 ☝️ る　verbs - just drop the る
 
 ☝️ う　verbs conjugate according to a patten:
@@ -149,13 +149,13 @@ Irregular verbs:\
 する　→　して\
 くる　→　きて
 
-##### てください
+#### てください
 書いてください\
 Please write
 
 ☝️ て-form ください
 
-##### Directions
+#### Directions
 道を聞く - Ask for directions
 道をおしえる - To give directions
 道をおしえてください - Plese give me directions
@@ -168,14 +168,14 @@ Please get on the Bakerloo Line at Charing Cross. Then please get off at Baker S
 
 Regent's Park は Baker Street の ちかくです。- Regent's Park is near Baker Street.
 
-##### Describing two or more activities
+#### Describing two or more activities
 きっさてんにいって、ざっしを読みます。- I'll go to the cafe then go home and read a magazine
 
-おきて、シャワーにのりました。- I woke up and got in the shower.
+おきて、シャワーをあびました。- I woke up and got in the shower.
 
 ☝️ The last verb determines the tense of the whole sentence.
 
-##### Asking for permission
+#### Asking for permission
 タバコをすってもいいですか。\
 May I smoke?
 
@@ -187,13 +187,13 @@ Yeah it's fine. Go ahead.
 すみません。ちょっと。\
 Excuse me, but no.
 
-##### Prohibition
+#### Prohibition
 となりの人のテストを見てはいけませんよ。
 
 ☝️ てはいけませｎ
 
-##### Shall I/shall we
-まどをあけまましょうか。\
+#### Shall I/shall we
+まどをあけましょうか。\
 Shall I close the window?
 
 お茶を飲みましょうか。\
@@ -201,39 +201,39 @@ Shall we drink tea?
 
 ☝️ Whether it's 'we' or 'I' simply comes from the context.
 
-##### Because (から)
-いそがしですから、コンサートを行きません。\
+#### Because (から)
+いそがしいですから、コンサートに行きません。\
 I won't go to the concert because I'm busy.
 
 ☝️ reason から situation
 
-##### Buying with quantity
+#### Buying with quantity
 Lサイズをニまいください。\
 2 L size please
 
 ☝️ Word order is object を quantity verb (opposite of english)
 
-##### Adjective conjugations
-###### Affirmative
+#### Adjective conjugations
+##### Affirmative
 | Verb type | Present | Past |
 | - | - | - |
 | ひま（な）| ひまです | ひまでした　|
 | おいしい　| おいしいです　| おいしかったです |
 | いい | いいです |　よかったです |
 
-###### Negative
+##### Negative
 |Verb type|Present|Past|
 |-|-|-|
 |ひま（な）|ひまじゃないです|ひまじゃなかったです|
 |おいしい|おいしくないです|おいしくなかったです|
 |いい|よくないです|よくなかったです|
 
-##### Alernative polite negative
+#### Alernative polite negative
 メアリーは日本人**じゃありません**。
 
 ☝️ じゃ + verb ある negative
 
-##### Action in progress
+#### Action in progress
 チョーは雑誌を**よんでいる**\
 Cho is eating
 
@@ -242,7 +242,7 @@ Cho is eating
 But this only applies to durative verbs (ones that describe ongoing action)\
 e.g. たべる、のむ. 
 
-##### Describing occupation
+#### Describing occupation
 私は日本語のきょうしを**しています**。\
 I'm a Japanese teacher
 
@@ -263,7 +263,7 @@ I make software.
 
 お仕事はなんですか。/ お仕事はなにを**していますか**。
 
-##### ~ている
+#### ~ている
 3 uses:\
 Ongoing actions - 本を読んでいます - I'm reading a book\
 Describing occupation　‐　ソニーではたらいています
@@ -277,13 +277,13 @@ Describing occupation　‐　ソニーではたらいています
 メアリーさんを しっていますか - Do you know Mary?\
 けんさんは お金を あまり もっていません - Ken doesn’t have much money (あまり)
 
-##### Describing people with adjectives
+#### Describing people with adjectives
 ☝️ Person は　body part　が　adj です
 
 そらさんはかみがながいです
 Sora san's hair is long
 
-##### Connecting adjectives
+#### Connecting adjectives
 ☝️ Use て-form
 
 i-adj: かわい**くて**
@@ -292,13 +292,13 @@ na-adj: しずか**で**
 ゆいはしずかで、あたまがいいです
 Yui is quiet and clever
 
-##### Contrasting ideas (..., but)
+#### Contrasting ideas (..., but)
 ☝️ Full sentence が _______.
 
 けんさんのいえはふるいですが、やさいです。
 Ken's house is old but cheap
 
-##### Counting people
+#### Counting people
 ひとり（一人）、ふたり（二人）、三人。。。
 
 ☝️Location に people が　quantity　います。\
@@ -306,7 +306,7 @@ No particle before います！
 
 e.g. へやに学生が六人います。
 
-##### Purpose of a trip
+#### Purpose of a trip
 ☝️Location に　verb stem　に 行きます。
 
  e.g.　カフェ**に**コーヒーを飲み**に**行きます。
@@ -314,7 +314,7 @@ e.g. へやに学生が六人います。
 ナオミさんはともだちのうちに**何をしに**行きますか？\
 What is Naomi going to do at her friend's house?
 
-##### Informal speech (short form)
+#### Informal speech (short form)
 |　| affirmative | か |　ね　or よ　｜
 | - | - | - | - |
 | verb | dictionary form  | dictionary form **?** | dictionary form **よ** |
@@ -322,26 +322,26 @@ What is Naomi going to do at her friend's house?
 | na-adj | dictionary form **（だ）**  | dictionary form **?** | dictionary form **（だ）よ** |
 | noun | dictionary form **（だ）** | dictionary form **?** | dictionary form **（だ）よ** |
 
-##### Short form affirmative
+#### Short form affirmative
 Verb：　日本語をはなします。　→　日本語を**はなす**。\
 i-adj: かわいいです。　→　**かわいい**。\
 na-adj: 元気です。　→　**元気（だ）**。\
 noun: 学生です。　→　**学生（だ）**。
 
-##### Short form question
+#### Short form question
 Verb：　日本語をはなしますか。　→　日本語を**はなす？**。\
 i-adj: かわいいですか。　→　**かわいい？**。\
 na-adj: 元気ですか。　→　**元気？**。\
 noun: 学生ですか。　→　**学生？**。
 
-##### Short form ね　or よ
+#### Short form ね　or よ
 Verb： 日本語をはなしますよ。　→　 日本語をはなす**よ**。\
 i-adj:  かわいいですね。→　 かわいい**ね**。\
 na-adj:  元気ですね。→　 元気**だね**。\
 noun:  学生ですよ。→　 学生**だよ**。
 
-##### Short form negative (ない　form)
-###### ☝️る-verb:
+#### Short form negative (ない　form)
+##### ☝️る-verb:
 drop る and **add ない**  
   
 見る　→　見ない\
@@ -349,26 +349,26 @@ drop る and **add ない**
 
 e.g. Q: えいがを 見る？ A: ううん、見ない。
  
-###### ☝️う-verb:
+##### ☝️う-verb:
 vowel shift **_u**　 →　**_aない**
 
 e.g.　行く　→　行かない\
 飲む　→　飲まない\
 会う　→　会わない
   
-###### ☝️irr-verb:
+##### ☝️irr-verb:
 する　→　**し**ない　　くる　→　**こ**ない　　ある　→　**ない**
 
-###### ☝️adj:
+##### ☝️adj:
 (い-adj): たかくないです。　→　たか**くない**。\
 (な-adj): べんりなです。　→　べんり**じゃない**。
   
-###### ☝️noun:
+##### ☝️noun:
 drop です
 
 けんさんは中国人じゃないです。　→　けんさんは中国人**じゃない**。
 
-##### Expressing an opinion (I think...)
+#### Expressing an opinion (I think...)
 ☝️I think that ＿＿＿　→　short form **と**思います。
 
 e.g. これは　タオルだ　と　思います。(i think this is a towel)\
@@ -380,7 +380,7 @@ What (***how***) do you think **about** the university cafeteria?
 私　**も**　**そう**　おもいます。\
 I think **so** **too**.
 
-##### Reporting speech (somebody said...)
+#### Reporting speech (somebody said...)
 ☝️Short form と言っていました。
 
 メアリさんはいそがしい**といっていました**。\
@@ -392,7 +392,7 @@ Mary said she doesn't read magazines.
 けんさんは**なんと**言っていましたか。\
 What did Ken say? 
 
-##### Please don't...
+#### Please don't...
 
 ☝️ない form **で ください**
 
@@ -402,7 +402,7 @@ Please don't erase.
 Q: けすもいいですか。\
 A: けすはいけません。(you mustn't) / けさないでください (please don't) ← better answer
 
-##### Being good/bad at...
+#### Being good/bad at...
 ☝️short form **のが**　じょうず/へた　です。\
 ☝️noun **が**　じょうず/へた　です。
 
@@ -412,7 +412,7 @@ Cho is good at *playing* badminton
 チョウさんはバドミントン**が**じょうずです。\
 Cho is good at badminton
 
-##### I like doing...
+#### I like doing...
 Same grammar as above.
 
 メアリさんはテニスをする**のが**好きです。\
@@ -424,13 +424,13 @@ Mary likes tennis.
 すきでも きらいでも ないです。\
 I neither like it nor dislike it.
 
-##### が (emphasis particle)
+#### が (emphasis particle)
 Q：だれ**が**ざっしをねていますか。(*Who* is sleeping?)\
 A：けんさん**が**ねています。
 
 Always answer using the same particle (because it repeats the emphasis).
 
-##### なにか(something) and なにも (not... anything)
+#### なにか(something) and なにも (not... anything)
 何かもっていきましょうか。\
 Shall I bring something?
 
@@ -442,36 +442,36 @@ I don't think we need anything
 
 ☝️何も always uses negative.
 
-##### た-form
+#### た-form
 Same as て-form but て→た　and で→だ
 
 e.g. 行って　→　行**った**　　　　のんで　→　の**んだ**
 
-##### Short form past verb
+#### Short form past verb
 ☝️た-form
 
 e.g. 話しました　(long form)　→　話し**た** (short form)
 
-##### Short form past negative verb
+#### Short form past negative verb
 ☝️＿なかった (ない-form + かった)
 
 e.g. 話さ**なかった**
 
-##### Short form past adjective + noun
+#### Short form past adjective + noun
 い-adj: たのし**かった**\
 な_adj: ざんねん**だった**\
 noun: いい天気**だった**
 
-##### Short form past negative
+#### Short form past negative
 い-adj: たのし**くなかった**\
 な_adj: ざんねん**じゃなかった**
 
-##### Talk about the past (informal)
+#### Talk about the past (informal)
 Q: きのう、テレビをみる？\
 A: うん、みた。(Yes)\
 A: ううん、みなかった。(No)
 
-##### Quoting the past
+#### Quoting the past
 ☝️Short form past + と言っていました
 
 けんさんはおき**た**と言っていました。\
@@ -480,13 +480,13 @@ Ken said he just woke up.
 お父さんは、わかい時　マイクルジャクソンがすき**だった**と言っていました。\
 My dad said he liked Michael Jackson when he was young
 
-##### Giving an opinion about the past
+#### Giving an opinion about the past
 ☝️Short form past + と思います
 
-メアリさんはこどもの時、あたまがよかったとおもいます。\
+メアリさんはこどもの時、あたまがよかったと思います。\
 I think Mary was clever when she was a child
 
-##### I've already done it/haven't done it yet.
+#### I've already done it/haven't done it yet.
 ☝️もう＿＿＿ました
 
 **もう**レポートをかきました
@@ -497,18 +497,18 @@ I've **already** written the report
 **まだ**レポートをかい**ていません**
 I haven't written the report yet
 
-##### Explaning reasons
+#### Explaning reasons
 テストがあわったから、カラオケに行きませんか。(putting the reason first is most natural)
 
 The reason is in short form, and the sentence ends long form. 'Semi-formal'
 
-##### The person who is (verb)ing
+#### The person who is (verb)ing
 メアリはあそこで雑誌を読ん**でいる人**です。\
 Mary is the person over there who is reading
 
 ☝️(verb) ている人
 
-##### Which one is more? / A is more than B
+#### Which one is more? / A is more than B
 日本語**と**英語**と**　**どちらのほうが**　かんてんですか。\
 Which one is easier, Japanese or English?
 
@@ -526,14 +526,14 @@ Can be shortened to: 英語**のほうが**背が高いです。(Drop より + a
 or...
 ☝️B　より　A　のほうが
 
-##### Which one do you prefer？
+#### Which one do you prefer？
 ケーキ**と**チョコレート**と** **どちらのほうが** **いいですか**。\
 Do you prefer cake or chocolate?
 
 チョコレートのほうが（ケーキ　より）いいです。\
 I prefer chocolate
 
-##### Comparing three or more things
+#### Comparing three or more things
 東京スカイツリーがいちばん高いです\
 Tokyo Skytree is the tallest
 
@@ -547,7 +547,7 @@ Category のなかで どれ が いちばん... ですか。
 or... AとBとC のなかで...
 or... このなかで...
 
-##### Adjective/noun + の
+#### Adjective/noun + の
 やすい**の**をください。\
 The cheap one please
 
@@ -564,7 +564,7 @@ Well, the white one please
 ☝️ Noun のnoun 2 → noun の
 私のかさ (my umbrella) → 私の (mine)
 
-##### Future intentions
+#### Future intentions
 今からべんきょうする**つもり**です。\
 I intend to study from now.
 
@@ -573,7 +573,7 @@ I intend not to study on holiday.
 
 ☝️ Intention short form + つもり（だ）
 
-##### Become... (なる)
+#### Become... (なる)
 あたたか**く**になりましたね。\
 It's become warm hasn't it?
 
@@ -589,7 +589,7 @@ I've become a famous person.
 ☝️　い　→　**く**なる\
 ☝️　な　→　**に**なる
 
-##### Something and not anything　(何か and　何も)
+#### Something and not anything　(何か and　何も)
 何か (something)。何も (not anything)\
 **どこか** (somewhere)。**どこも** (not anywhere)\
 **だれか** (somebody)。**だれも** (not anybody)
@@ -631,7 +631,7 @@ These all need the particle に
 
 ☝️ Also, ある and いる **always** use に.
 
-##### By means of...
+#### By means of...
 ひこうき**で**いきます。\
 I'm going by plane.
 
@@ -654,7 +654,7 @@ From Tokyo to New York, how long does it take?
 東京からNYまで**十三時間くらい**かかります。\
 From Tokyo to New York it takes about 13 hours?
 
-##### Counters for time durations
+#### Counters for time durations
 ふん、ぷん - minutes\
 じかん - hours\
 にち (2-10 か) - days\
@@ -662,7 +662,7 @@ From Tokyo to New York it takes about 13 hours?
 かげつ - months\
 ねん - years
 
-##### Want to do
+#### Want to do
 海で泳ぎたいです。\
 I want to swim in the sea
 
@@ -680,21 +680,72 @@ I want to eat bento
 
 ☝️ Direct object particle is が rather than を
 
-##### Do you want to..?
-歌舞伎が見に行きたいですか。\
+#### Do you want to..?
+歌舞伎が見に行き**たい**ですか。\
 Do you want to go and see kabuki?
 
-子供の時、しゅくだいがやりたかったですか。\
+子供の時、しゅくだいがやり**たかった**ですか。\
 When you were a kid did you want to do you homework?
 
-日本語が上手になりたいですか。\
+日本語が上手になり**たい**ですか。\
 Do you want to become good at Japanese?
 
-##### たがる　(talking about someone else's wants)
-もえさんは京都に行きたいと言っていました\
-Moe san said she wants to go to Kyoto
+#### たがる　(talking about someone else's wants)
+もえさんは京都に行きた**行いと言っていました**\
+Moe san **said she wants** to go to Kyoto
 
 もえさんは京都に行き**たがっていました**。\
-(I understand) Moe wants to go to Kyoto
+(I understand) Moe **wants to go** to Kyoto
 
 ☝️ somebody は verb stem たかっていました。
+
+#### ～たり、～たりする
+友だちとバドミントンをし**たり**、テレビをみ**たりしました**\
+I played badminton with my friends and watched TV, and so on.
+
+明日は、ケーキを作ったり、友だちに会ったりします。\
+Tomorrow I will make a cake and meet friends, and so on.
+
+日本で山に登ったり、温泉に入っ**たりする**つもりです。\
+In Japan I intend to climb mountains and go in onsens, and so on.
+
+☝️ do... and do... (and so on)
+☝️ た-formり,た-formりする
+☝️ i.e. a non-exhaustive list, and not necessarily in sequence
+☝️ たり doesn't get affected by anything else (like tense)
+☝️ the last する determines the tense
+
+はしったり、泳い**だりしたいです**。\
+I want to run and swim, and so on.
+
+### は + negative sentences
+いいえ、テレビ**は**見ません　← **は** instead of **を**
+
+コーヒー**が**すきですか。\ (Do you like coffee?)
+いいえ、コーヒー**は**好きじゃないです。(No I don't)
+
+☝️ in negative sentences, は is often used instead of the object particles が and を
+
+英語**では**なしたくないです\
+I don't want to speak English
+
+大阪**には**行きませんでした。
+I didn't want to go to Osaka
+
+☝️ は comes **after** に and で
+
+### だけ (just)
+一つだけ、しつもんがあります。\
+I have just one question
+
+三十分だけねました。\
+I slept for just 30 minutes.
+
+☝️ number + だけ
+
+### に marking a role
+おみやげ**に**ビスケットを買います。
+I bought biscuits as a souvenir.
+
+朝ごはん**に**ケーキを食べました。
+I ate the cake for breakfast.
