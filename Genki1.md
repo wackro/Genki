@@ -744,8 +744,8 @@ I slept for just 30 minutes.
 ☝️ number + だけ
 
 ### に marking a role
-おみやげ**に**ビスケットを買います。
+おみやげ**に**ビスケットを買います。\
 I bought biscuits as a souvenir.
 
-朝ごはん**に**ケーキを食べました。
+朝ごはん**に**ケーキを食べました。\
 I ate the cake for breakfast.
