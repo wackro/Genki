@@ -718,7 +718,7 @@ In Japan I intend to climb mountains and go in onsens, and so on.
 はしったり、泳い**だりしたいです**。\
 I want to run and swim, and so on.
 
-### は + negative sentences
+#### は + negative sentences
 いいえ、テレビ**は**見ません　← **は** instead of **を**
 
 コーヒー**が**すきですか。(Do you like coffee?)\
@@ -734,7 +734,7 @@ I didn't want to go to Osaka
 
 ☝️ は comes **after** に and で
 
-### だけ (just)
+#### だけ (just)
 一つだけ、しつもんがあります。\
 I have just one question
 
@@ -743,7 +743,7 @@ I slept for just 30 minutes.
 
 ☝️ number + だけ
 
-### に marking a role
+#### に marking a role
 おみやげ**に**ビスケットを買います。\
 I bought biscuits as a souvenir.
 
