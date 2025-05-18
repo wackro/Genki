@@ -749,3 +749,21 @@ I bought biscuits as a souvenir.
 
 朝ごはん**に**ケーキを食べました。\
 I ate the cake for breakfast.
+
+#### noun や noun
+日本でみずうみやおんせんにいきました。\
+In Japan I went to lakes and onsens and so on.
+
+☝️ noun and noun (and so on...)
+
+#### ことがある
+車をうんてんしたことがありますか。\
+Have you ever driven a car?
+
+ふじさんを見た**ことがありました**。\
+I have seen Mt Fuji before (or literally, I have had the experience of seeing Mt Fuji)
+
+なっとうを食べた**ことがありません**。\
+I've never eaten natto (or literally, I haven't had the experience of eating natto)
+
+☝️ This differs from e.g. まだなっとうを食べていません (I haven't eaten natto yet)
