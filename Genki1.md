@@ -517,10 +517,10 @@ Can be shortened to:\
 
 ☝️Question: A　と　B　と　どちら（のほう）が　description?
 
-英語**のほうが**日本語**より**背が高いです。\
+英語**のほうが**日本語**より**かんたんです。\
 English is easier than Japanese
 
-Can be shortened to: 英語**のほうが**背が高いです。(Drop より + alternative)
+Can be shortened to: 英語**のほうが**かんたんです。(Drop より + alternative)
 
 ☝️A　のほうが　B より
 or...
@@ -735,10 +735,10 @@ I didn't want to go to Osaka
 ☝️ は comes **after** に and で
 
 #### だけ (just)
-一つだけ、しつもんがあります。\
+一つ**だけ**、しつもんがあります。\
 I have just one question
 
-三十分だけねました。\
+三十分**だけ**ねました。\
 I slept for just 30 minutes.
 
 ☝️ number + だけ
@@ -751,13 +751,13 @@ I bought biscuits as a souvenir.
 I ate the cake for breakfast.
 
 #### noun や noun
-日本でみずうみやおんせんにいきました。\
+日本でみずうみ**や**おんせんにいきました。\
 In Japan I went to lakes and onsens and so on.
 
 ☝️ noun and noun (and so on...)
 
 #### ことがある
-車をうんてんしたことがありますか。\
+車をうんてんした**ことがありますか**。\
 Have you ever driven a car?
 
 ふじさんを見た**ことがありました**。\
@@ -767,3 +767,34 @@ I have seen Mt Fuji before (or literally, I have had the experience of seeing Mt
 I've never eaten natto (or literally, I haven't had the experience of eating natto)
 
 ☝️ This differs from e.g. まだなっとうを食べていません (I haven't eaten natto yet)
+
+#### ~んです
+どう**したんですか**。\
+What happened? (Please explain) (した is する short form past)
+
+「とうしましたか」isn't used so much, because it's too literal.
+
+☝️ Asking for an explanation to link the cause and effect.
+
+バスが**来なかったんです**。\
+The bus didn't come (and that's why I'm late)
+
+あたまが**いたいんです**。\
+My head hurts (and that's why I don't look well)
+
+☝️ There's one exception for な-adj and nouns. 
+
+ひま**な**んです。← present tense is な instead of だ\
+I'm available
+
+ひまだったんです。\
+I **was** available.
+
+母さんが病気なんです。← present tense is な instead of だ\
+My mom's ill.
+
+母さんが病気だったんです。\
+My mom **was** ill.
+
+☝️ Short form + んです。\
+☝️ Tense changes, again, happen on the short form bit.
