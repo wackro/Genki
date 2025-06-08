@@ -798,3 +798,18 @@ My mom **was** ill.
 
 ☝️ Short form + んです。\
 ☝️ Tense changes, again, happen on the short form bit.
+
+### ~すぎる
+おどり**すぎ**ました。\
+I danced **too much**.
+
+☝️ Verb stem + すぎる
+
+せますぎます。\
+It's too big
+
+☝️ Adjective stem + すぎる
+
+
+食べすぎるから、おなかがいたいんです\
+I ate too much so my stomach hurts
