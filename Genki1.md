@@ -681,23 +681,18 @@ I want to eat bento
 ☝️ Direct object particle is が rather than を
 
 #### Do you want to..?
-歌舞伎が見に行き**たい**ですか。\
-Do you want to go and see kabuki?
+日本語が上手になり**たい**ですか。\
+Do you want to become good at Japanese?
 
 子供の時、しゅくだいがやり**たかった**ですか。\
 When you were a kid did you want to do you homework?
 
-日本語が上手になり**たい**ですか。\
-Do you want to become good at Japanese?
-
-#### たがる　(talking about someone else's wants)
-もえさんは京都に行きた**行いと言っていました**\
-Moe san **said she wants** to go to Kyoto
+#### たがっていました
 
 もえさんは京都に行き**たがっていました**。\
 (I understand) Moe **wants to go** to Kyoto
 
-☝️ somebody は verb stem たかっていました。
+☝️ somebody は verb stem **たかっていました**。
 
 #### ～たり、～たりする
 友だちとバドミントンをし**たり**、テレビをみ**たりしました**\
@@ -741,6 +736,9 @@ I have just one question
 三十分**だけ**ねました。\
 I slept for just 30 minutes.
 
+卵が一つ**だけ**あります。
+There are just two eggs (and that's about enough)
+
 ☝️ number + だけ
 
 #### に marking a role
@@ -782,6 +780,9 @@ The bus didn't come (and that's why I'm late)
 あたまが**いたいんです**。\
 My head hurts (and that's why I don't look well)
 
+どうして日本語を**勉強しているん**ですか。\
+Why are you studying Japanese？
+
 ☝️ There's one exception for な-adj and nouns. 
 
 ひま**な**んです。← present tense is な instead of だ\
@@ -799,17 +800,30 @@ My mom **was** ill.
 ☝️ Short form + んです。\
 ☝️ Tense changes, again, happen on the short form bit.
 
-### ~すぎる
-おどり**すぎ**ました。\
+#### ~すぎる
+おどり**すぎました**。\
 I danced **too much**.
+
+お母さんはしんぱいし**すぎ**ます。\
+My mother worries too much
 
 ☝️ Verb stem + すぎる
 
-せますぎます。\
+せま**すぎます**。\
 It's too big
 
 ☝️ Adjective stem + すぎる
 
-
-食べすぎるから、おなかがいたいんです\
+食べ**すぎる**から、おなかがいたいんです\
 I ate too much so my stomach hurts
+
+#### ほうがいいです (Giving advice)
+薬を **のんだ** **ほうがいいですよ**\
+You'd better take medicine
+
+☝️ Affirmative - た form + ほうがいいです
+
+何も　**持たない**　**ほうがいいですよ**\
+It's better not to bring anything
+
+☝️ Negative - ない form + ほうがいいです 
