@@ -826,4 +826,9 @@ You'd better take medicine
 何も　**持たない**　**ほうがいいですよ**\
 It's better not to bring anything
 
-☝️ Negative - ない form + ほうがいいです 
+☝️ Negative - ない form + ほうがいいです
+
+#### ので (Explaining resasons)
+たべすぎた**ので**、おなかがいたいんです。← formal
+
+Same as short form + から (which is semi formal)
