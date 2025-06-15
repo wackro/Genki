@@ -829,6 +829,11 @@ It's better not to bring anything
 ☝️ Negative - ない form + ほうがいいです
 
 #### ので (Explaining resasons)
-たべすぎた**ので**、おなかがいたいんです。← formal
+食べすぎた**ので**、おなかがいたいんです。← formal
 
-Same as short form + から (which is semi formal)
+Similar to short form + から (which is semi formal)
+
+☝️ After a な adj, keep the な instead of swapping for だ, like with んです
+
+彼女はいつもしんせつ**なので**、。。。\
+Because she is always kind...
