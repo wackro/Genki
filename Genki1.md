@@ -837,3 +837,17 @@ Similar to short form + から (which is semi formal)
 
 彼女はいつもしんせつ**なので**、。。。\
 Because she is always kind...
+
+### なければいけません (have to)
+午後、図書館に行って、本をかりな**ければいません**。\
+I **have to** go to the library and borrow a book this afternoon
+
+☝️ Na-form (ない form but **drop the い**) + ければ + いけません
+
+友達が来るので、買い物しな**ければいけません**。\
+I **have to** do some shopping because a friend is coming.
+
+子供の時、そうじを手伝わな**きゃ**いけませんでした。\
+When I was a kid I **had to** help clean
+
+☝️ きゃ is the same as ければ
