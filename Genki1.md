@@ -870,7 +870,7 @@ How much would the course be? (When you're not sure they know)
 
 ☝️ Short form + でしょうか
 
-####　Potential form (verbs)
+#### Potential form (verbs)
 テインさんはじてんしゃに**乗れます**\
 Ting can ride a bicycle
 
