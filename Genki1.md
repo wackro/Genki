@@ -851,3 +851,21 @@ I **have to** do some shopping because a friend is coming.
 When I was a kid I **had to** help clean
 
 ☝️ きゃ is the same as ければ
+
+#### でしょう (predictions)
+東京ははれでしょう。\
+Tokyo will be sunny.
+
+きおんは２５ぐらいでしょう。\
+The temperature will be about 25 degrees
+
+☝️ Will/would... (prediction) ―　short form + でしょう
+
+#### でしょうか - questions for unsure answers
+コースはいくらですか。\
+How much is the course?
+
+コースはいくらでしょうか。\
+How much would the course be?
+
+☝️ Short form + でしょうか
