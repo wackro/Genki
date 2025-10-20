@@ -863,9 +863,41 @@ The temperature will be about 25 degrees
 
 #### でしょうか - questions for unsure answers
 コースはいくらですか。\
-How much is the course?
+How much is the course? (When you know they know the answer)
 
-コースはいくらでしょうか。\
-How much would the course be?
+コースはいくら**でしょうか**。\
+How much would the course be? (When you're not sure they know)
 
 ☝️ Short form + でしょうか
+
+####　Potential form (verbs)
+テインさんはじてんしゃに**乗れます**\
+Ting can ride a bicycle
+
+う-verbs:\
+買う　→　買**える**\
+行く　→　い**ける**\
+急ぐ　→　急**げる**\
+待つ　→　待**てる**\
+死ぬ　→　死**ねる**\
+遊ぶ　→　遊**べる**\
+読む　→　読**める**\
+作る　→　作**れる**
+
+☝️　Simple shift to the え stem
+
+る-verbs:\
+見る　→　見**られる** (colloquially as 見れる)
+
+☝️　Drop る and replace with れる/られる
+
+irr-verbs:\
+来る　→　**来られる**
+する　→　**出来る**　（できる）
+
+自動販売機でコーヒー**が**買えます。\
+You can buy coffee from vending machines
+
+☝️　を is replaced with が
+☝️　に stays the same
+
