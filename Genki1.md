@@ -892,7 +892,7 @@ Ting can ride a bicycle
 ☝️　Drop る and replace with れる/られる
 
 irr-verbs:\
-来る　→　**来られる**
+来る　→　**来られる**\
 する　→　**出来る**　（できる）
 
 自動販売機でコーヒー**が**買えます。\
