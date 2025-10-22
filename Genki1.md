@@ -586,8 +586,8 @@ You've got good at Japanese haven't you?
 ゆうめいじいん**に**なったよ。(noun)\
 I've become a famous person.
 
-☝️　い　→　**く**なる\
-☝️　な　→　**に**なる
+☝️ い　→　**く**なる\
+☝️ な　→　**に**なる
 
 #### Something and not anything　(何か and　何も)
 何か (something)。何も (not anything)\
@@ -884,20 +884,20 @@ Ting can ride a bicycle
 読む　→　読**める**\
 作る　→　作**れる**
 
-☝️　Simple shift to the え stem
+☝️ Simple shift to the え stem
 
 る-verbs:\
 見る　→　見**られる** (colloquially as 見れる)
 
-☝️　Drop る and replace with れる/られる
+☝️ Drop る and replace with れる/られる
 
 irr-verbs:\
-来る　→　**来られる**\
+来る　→　**来られる** （こられる）\
 する　→　**出来る**　（できる）
 
 自動販売機でコーヒー**が**買えます。\
 You can buy coffee from vending machines
 
-☝️　を is replaced with が
-☝️　に stays the same
+☝️ を is replaced with が
+☝️ に stays the same
 
