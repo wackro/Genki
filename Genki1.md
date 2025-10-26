@@ -898,6 +898,46 @@ irr-verbs:\
 自動販売機でコーヒー**が**買えます。\
 You can buy coffee from vending machines
 
-☝️ を is replaced with が
+☝️ を is replaced with が\
 ☝️ に stays the same
 
+#### 多い
+多い - there are many/lots of
+
+☝️ noun が　多い　です。
+
+#### ~し、~し (stating two or more reasons)
+雨**だし**、ねむい**し**、学校に行きたくない。\
+I don't want to go to school because...
+
+おなかが**すいていないし**、**嫌いだし**、食べたくない。\
+I don't want to eat because...
+
+☝️ reason し、reason　し、situation\
+☝️ short form し、short form　し、situation\
+
+☝️ な-adj, nouns　→　だし
+
+You can also put the reason first, as long as it's a separate sentence:\
+These days I'm busy. Because I have an exam and a lot of homework.\
+この頃忙しいです。しけんが**あるし**、しゅくだいがたくさん**あるし**。
+
+#### ~そうです
+それは難し**そうです**ね。\
+It looks difficult doesn't it?
+
+☝️ It looks/sounds (adj)
+
+難しい　→　難し**そうです**\
+簡単　→　簡単**そうです**\
+いい　→　**良さそうです** (irr!)
+
+He doesn't look mean\
+意地悪じゃな**さそうです**
+
+☝️ na-form　さそうです
+
+This is delicious-looking sushi\
+これはおいしそう**な**すしです
+
+☝️ (adj)-looking →　(adj)　そうな
