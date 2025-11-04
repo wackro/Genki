@@ -962,5 +962,5 @@ I'll try on the shoes
 
 ☝️ みる itself is a る verb
 
-本を読んでみてもいいですか。\
+本を読んで**みて**もいいですか。\
 Can I try reading that book?
