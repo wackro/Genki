@@ -945,12 +945,22 @@ This is delicious-looking sushi\
 忙しくなさそうです (he looks not busy i.e. looks free)\
 忙しそうじゃないです (he doesn't look busy)
 
-そのせーたーはうちであらえそうです\
-It looks like that sweater is washable at home
-
-☝️ impression or guess
+そのセーターはうちであらえそうです\
+It looks like that sweater is washable at home (impression or guess)
 
 雨が降りそうです\
-It looks like it's about to rain
+It looks like it's about to rain (the situation about to happen)
 
-☝️ the situation about to happen
+#### ~てみます (try doing)
+着**てみますか**？\
+Do you want to try it on?
+
+くつをはい**てみます**。
+I'll try on the shoes
+
+☝️ て-form　みます
+
+☝️ みる itself is a る verb
+
+本を読んでみてもいいですか。\
+Can I try reading that book?
