@@ -934,23 +934,25 @@ It looks difficult doesn't it?
 いい　→　良**さ**そうです* (irr!)
 
 He doesn't look mean\
-意地悪じゃな**さそうです**
+意地悪**じゃなさそうです**
 
-☝️ na-form　さそうです
+☝️ na-form　**さ**そうです
 
 This is delicious-looking sushi\
 これはおいしそう**な**すしです
 
 ☝️ (adj)-looking →　(adj)　そうな
 
-忙しくなさそうです (he looks not busy i.e. looks free)\
-忙しそうじゃないです (he doesn't look busy)
+忙し**くなさそうです** (he looks not busy i.e. looks free)\
+忙し**そうじゃないです** (he doesn't look busy)
 
 そのセーターはうちであらえそうです\
-It looks like that sweater is washable at home (impression or guess)
+It looks like that sweater is washable at home
 
 雨が降りそうです\
-It looks like it's about to rain (the situation about to happen)
+It looks like it's about to rain
+
+☝️ also used for impression/guess and the situation about to happen
 
 #### ~てみます (try doing)
 着**てみますか**？\
