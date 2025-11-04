@@ -926,6 +926,7 @@ These days I'm busy. Because I have an exam and a lot of homework.\
 それは難し**そうです**ね。\
 It looks difficult doesn't it?
 
+☝️ (adj) そうです
 ☝️ It looks/sounds (adj)
 
 難しい　→　難し**そうです**\
