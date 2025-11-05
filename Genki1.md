@@ -936,7 +936,7 @@ It looks difficult doesn't it?
 He doesn't look mean\
 意地悪**じゃなさそうです**
 
-☝️ na-form　**さ**そうです
+☝️ na-form　**さ** そうです
 
 This is delicious-**looking** sushi\
 これはおいし**そうな**すしです
