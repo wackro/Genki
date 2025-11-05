@@ -938,10 +938,10 @@ He doesn't look mean\
 
 ☝️ na-form　**さ**そうです
 
-This is delicious-looking sushi\
-これはおいしそう**な**すしです
+This is delicious-**looking** sushi\
+これはおいし**そうな**すしです
 
-☝️ (adj)-looking →　(adj)　そうな
+☝️ (adj)-**looking** →　(adj)　**そうな**
 
 忙し**くなさそうです** (he looks not busy i.e. looks free)\
 忙し**そうじゃないです** (he doesn't look busy)
@@ -954,7 +954,7 @@ It looks like it's about to rain
 
 ☝️ also used for impression/guess and the situation about to happen
 
-#### ~てみます (try doing)
+#### ~てみます (try doing tentantively)
 着**てみますか**？\
 Do you want to try it on?
 
