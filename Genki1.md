@@ -999,9 +999,9 @@ I go to the cinema twice a month\
 **一か月に二回**映画を見ます。
 
 I go to work 5 days a week\
-**一週間にいつか**会社に行きます。
+**一週間に五日**会社に行きます。(五日 = いつか = 5 days)
 
 I study for half an hour a day\
-**一日に半時間**ぐらい勉強します。
+**一日に三十分**ぐらい勉強します。
 
 ☝️ period に frequency
