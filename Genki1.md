@@ -1003,3 +1003,5 @@ I go to work 5 days a week\
 
 I study for half an hour a day\
 **一日に半時間**ぐらい勉強します。
+
+☝️ period に frequency
