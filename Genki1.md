@@ -967,3 +967,39 @@ I'll try on the shoes
 
 本を読んで**みて**もいいですか。\
 Can I try reading that book?
+
+#### ~なら (contrast/limitation)
+おきなわ**なら**行ったことがありますが、ほっかいどうはありません。\
+I **have** been to Okinawa, but not Hokkaido.
+
+ひらがな**なら**書けます。\
+I can write hiragana (... but not kanji/katakana).
+
+☝️ limited to (noun) [positive idea]\
+☝️ sentence says something positive about the topic\
+☝️ なら replaces any particle
+
+#### Duration counters
+| months           | weeks             | days         | times       |
+|------------------|-------------------|--------------|-------------|
+| **いっ**かげつ   | **いっ**しゅうかん   | いちにち       |**いっ**かい|
+| にかげつ          | にしゅうかん          | **ふつ**か   |にかい     |
+| さんかげつ        | さんしゅうかん        | **みっ**か   |さんかい   |
+| よんかげつ        | よんしゅうかん        | **よっ**か   |よんかい   |
+| ごかげつ          | ごしゅうかん          | **いつ**か   |ごかい    |
+| **ろっ**かげつ   | ろくしゅうかん        | **むい**か    |ろっかい   |
+| ななかげつ        | ななしゅうかん        | **なの**か   |ななかい   |
+| **はっ**かげつ   | **はっ**しゅうかん   | **よう**か     |はっかい   |
+| きゅうかげつ      | きゅうしゅうかん      | **ここの**か  |きゅうかい |
+| **じゅっ**かげつ | **じゅっ**しゅうかん | **とう**か      |じゅっかい |
+
+
+#### Frequenecy in a period
+I go to the cinema twice a month\
+一か月に二回映画を見ます。
+
+I go to work 5 days a week\
+一週間にいつか会社に行きます。
+
+I study for half an hour a day\
+一日に半時間ぐらい勉強します。
