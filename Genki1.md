@@ -1005,3 +1005,20 @@ How many times a year do you shower?\
 一年間に何回シャワーを浴びますか？
 
 ☝️ period に frequency
+
+#### が　ほしい
+車が欲しい\
+I want a car
+
+欲しくない\
+I don't want it
+
+子供の時、まんがが欲しかったです。\
+When I was a kid I wanted manga.
+
+☝️ (thing) が　欲しい\
+☝️ 欲しい is an い adj\
+☝️ different to たい (which is for verbs)
+
+たけしさんはたんじょうびにねくあい **を** **ほしがっていました**。\
+(I understand) Takeshi wants a tie for his birthday
