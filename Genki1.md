@@ -497,7 +497,7 @@ I've **already** written the report
 **まだ**レポートをかい**ていません**
 I haven't written the report yet
 
-#### Explaning reasons
+#### Explaining reasons
 テストがあわったから、カラオケに行きませんか。(putting the reason first is most natural)
 
 The reason is in short form, and the sentence ends long form. 'Semi-formal'
@@ -509,7 +509,7 @@ Mary is the person over there who is reading
 ☝️(verb) ている人
 
 #### Which one is more? / A is more than B
-日本語**と**英語**と**　**どちらのほうが**　かんてんですか。\
+日本語**と**英語**と**　**どちらのほうが**　かんたんですか。\
 Which one is easier, Japanese or English?
 
 Can be shortened to:\
@@ -614,31 +614,28 @@ There was nobody about.
 
 ☝️ 何か and　何も replace **は**、**が**　and **を**, but you still need other particles like　に、へ、で、と...
 
-☝️ Remember, with object \<particle\> verb, the particle depends whether the verb is transient. Transient/intransient verbs in English are not the same as in Japanese. e.g:
+☝️ Some verbs take に to mark the target, goal, or endpoint of an action. These are not dependent on transitivity — the particle shows where or whom the action is directed at.
 
-Some transitive verbs:
-
-入る\
-すわる\
-会う\
-電話する\
-出る (to attend)\
-のる
-
-These all need the particle に
+Examples:\
+人に会う — meet a person (target)\
+電車に乗る — board a train (goal)\
+いすに座る — sit on a chair (resulting location)\
+大学に入る — enter a university (destination)\
+会議に出る — attend a meeting (target/event)\
+Rule of thumb: if the verb expresses reaching, contacting, or attending something, use に for the target/destination.
 
 ☝️ And remember, with location \<particle\> verb, the particle depends on whether there is movement. Location で verb if it's action, and location に verb if it's movement.
 
 ☝️ Also, ある and いる **always** use に.
 
 #### By means of...
-ひこうき**で**いきます。\
+ひこうき**で**行きます。\
 I'm going by plane.
 
-はし**で**たべばす。\
+はし**で**食べます。\
 I eat with chopsticks.
 
-**あすいて**いきあす。\
+**あすいて**行きます。\
 I'm going on foot (verb て-form)
 
 ☝️ Means　で\
@@ -658,7 +655,7 @@ From Tokyo to New York it takes about 13 hours?
 ふん、ぷん - minutes\
 じかん - hours\
 にち (2-10 か) - days\
-じゅうかん - weeks\
+しゅうかん - weeks\
 かげつ - months\
 ねん - years
 
@@ -749,7 +746,7 @@ I bought biscuits as a souvenir.
 I ate the cake for breakfast.
 
 #### noun や noun
-日本でみずうみ**や**おんせんにいきました。\
+日本でみずうみ**や**おんせんに行きました。\
 In Japan I went to lakes and onsens and so on.
 
 ☝️ noun and noun (and so on...)
@@ -810,7 +807,7 @@ My mother worries too much
 ☝️ Verb stem + すぎる
 
 せま**すぎます**。\
-It's too big
+It's too narrow
 
 ☝️ Adjective stem + すぎる
 
@@ -1003,5 +1000,8 @@ I go to work 5 days a week\
 
 I study for half an hour a day\
 **一日に三十分**ぐらい勉強します。
+
+How many times a year do you shower?\
+一年間に何回シャワーを浴びますか？
 
 ☝️ period に frequency
