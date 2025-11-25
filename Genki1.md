@@ -1022,3 +1022,19 @@ When I was a kid I wanted manga.
 
 たけしさんはたんじょうびにねくあい **を** **ほしがっていました**。\
 (I understand) Takeshi wants a tie for his birthday
+
+#### ~かもしれません
+電車はおくれている**かもしれません**\
+The train might be late
+
+これは会う**かもしれません**よ\
+This might suit you
+
+☝️ short form **かも　しれません**
+☝️ no need for だ after a na-adj/noun
+
+|| short | long |
+| - | - | - |
+| know        |しる        |しります|
+| can know    |しれる      |しれます|
+| can't know  |しれない    |**しれません**|
