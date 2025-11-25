@@ -1030,7 +1030,7 @@ The train might be late
 これは会う**かもしれません**よ\
 This might suit you
 
-☝️ short form **かも　しれません**
+☝️ short form **かも　しれません**\
 ☝️ no need for だ after a na-adj/noun
 
 || short | long |
