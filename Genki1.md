@@ -1038,3 +1038,20 @@ This might suit you
 | know        |しる        |しります|
 | can know    |しれる      |しれます|
 | can't know  |しれない    |**しれません**|
+
+#### あげる・くれる・もらう
+僕**は**もえさん**に**かばん**を**あげます。\
+I'll give Moe a bag
+
+☝️ Giver は somebody に あげる
+
+チョウさん**は**私**に**かばんを**くれました**。\
+Cho gave me a bag
+
+☝️ Somebody が giver に くれる
+
+私**は**チョウさん**に**かばんを**もらいました**。\
+I received a bag from Cho
+
+☝️ Recipient は somebody に もらう
+☝️ くれる can only be used by the recipient (because it means 'give to me')
