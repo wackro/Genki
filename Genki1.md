@@ -1053,5 +1053,52 @@ Cho gave me a bag
 私**は**チョウさん**に**かばんを**もらいました**。\
 I received a bag from Cho
 
-☝️ Recipient は somebody に もらう
+☝️ Recipient は somebody に もらう\
 ☝️ くれる can only be used by the recipient (because it means 'give to me')
+
+#### そうだん/アドバイス
+
+Q：彼女とけんかしたんです\
+I had a quarrel with my girlfriend
+
+A１：電話を**掛けたらそうですか**。\
+How about calling her?
+
+A2： 花をかいに**あげたらどうですか**。\
+How about buying flowers and giving them to her?
+
+☝️ Why don't you ___ / How about___?\
+☝️ た-form ら　どう　ですか
+
+☝️ら = if, どう = how
+
+**どうしたら**いいですか。\
+What should I do? (lit. 'if I do it how, is it good?')
+
+#### ~しか、~も
+百円**しか**ありません。\
+I have (no more than) 100 yen
+
+☝️ (number) しか　+ negative
+☝️ different to だけ, which just states the fact
+
+ニ万円**も**あるんですか。いいですね。\
+Do you have (as much as) 20,000 yen? That's good.
+
+☝️ (number) も
+
+#### Counters
+| #   | Small items (こ) | Bound volumes (さつ) | Small animals (ひき) | Long objects (ほん) | Equipment (だい) | Flat objects (まい) |
+|-----|-----------------|--------------------|--------------------|------------------|----------------|------------------|
+| 1   | <u>いっ</u>こ       | <u>いっ</u>さつ       | <u>いっ</u>**ぴき**       | <u>いっ</u>**ぽん**       | いちだい         | いちまい           |
+| 2   | にこ             | にさつ             | にひき             | にほん             | にだい           | にまい             |
+| 3   | さんこ           | さんさつ           | <u>さん</u>**びき**       | <u>さん</u>**ぼん**       | さんだい         | さんまい           |
+| 4   | よんこ           | よんさつ           | よんひき           | よんほん           | よんだい         | よんまい           |
+| 5   | ごこ             | ごさつ             | ごひき             | ごほん             | ごだい           | ごまい             |
+| 6   | <u>ろっ</u>こ       | ろくさつ           | <u>ろっ</u>**ぴき**       | <u>ろっ</u>**ぽん**       | ろくだい         | ろくまい           |
+| 7   | ななこ           | ななさつ           | ななひき           | ななほん           | ななだい         | ななまい           |
+| 8   | <u>はっ</u>こ       | はっさつ           | <u>はっ</u>**ぴき**       | <u>はっ</u>**ぽん**       | はちだい         | はちまい           |
+| 9   | きゅうこ         | きゅうさつ         | きゅうひき         | きゅうほん         | きゅうだい       | きゅうまい         |
+| 10  | <u>じゅっ</u>こ     | じゅっさつ         | <u>じゅっ</u>**ぴき**     | <u>じゅっ</u>**ぽん**     | じゅうだい       | じゅうまい         |
+| How many | なんこ / いくつ | なんさつ | <u>なん</u>**びき** | <u>なん</u>**ぼん** | なんだい | なんまい |
+| e.g. | candy, tomato, eraser | book, magazine, dictionary | cat, dog, snake | pencil, umbrella, movie, bottle | computer, TV, car, bicycle | paper, plate, T-shirt |
