@@ -1061,7 +1061,7 @@ I received a bag from Cho
 Q：彼女とけんかしたんです\
 I had a quarrel with my girlfriend
 
-A１：電話を**掛けたらそうですか**。\
+A１：電話を**掛けたらどうですか**。\
 How about calling her?
 
 A2： 花をかいに**あげたらどうですか**。\
