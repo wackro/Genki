@@ -1102,3 +1102,61 @@ Do you have (as much as) 20,000 yen? That's good.
 | 10  | <u>じゅっ</u>こ     | じゅっさつ         | <u>じゅっ</u>**ぴき**     | <u>じゅっ</u>**ぽん**     | じゅうだい       | じゅうまい         |
 | How many | なんこ / いくつ | なんさつ | <u>なん</u>**びき** | <u>なん</u>**ぼん** | なんだい | なんまい |
 | e.g. | candy, tomato, eraser | book, magazine, dictionary | cat, dog, snake | pencil, umbrella, movie, bottle | computer, TV, car, bicycle | paper, plate, T-shirt |
+
+#### Explanation mode (in casual speech)
+＿んです　　→ ＿んだ (neutral)\
+　　　　　　→ ＿の (feminine)\
+      
+＿んですか　→　＿の (neutral)
+
+#### わあ sound
+わあ - you find something exciting
+
+#### へえ sound
+へえ - you find somehting amusing, hard to believe or mildly surprising
+
+#### ~なあ
+Sentence ending particle to express hope, admiration, uncertainty, general emphasis.
+
+寂しいなあ。
+
+#### Volitional form
+あれに**乗ろう**！\
+Let's ride on that!
+
+おみやげを**買おうか**。\
+Shall we buy a souvenir?
+
+☝️ Casual version of ましょう/ましょうか\
+☝️ Uses the お stem
+
+るーverb: 食べる　→ 食べよう\
+うーverb: 行く　→ 行こう\
+来る　→ こよう\
+する　→ しよう
+
+#### けど and が
+けど is interchangable with が, but is more casual\
+
+long form が、。。。  (formal) 👍\
+short form が、。。。 (written style)\
+long form けど、。。。 (cound sound negative)\
+short form けど、。。。 (casual) 👍\
+short form けど、。。。long form (semi formal) 👍
+
+#### Omission in casual speech
+
+**は、が、を**\
+今度の休み、予定（が）ある？ (Do you have any plans for your next holiday)\
+タバコ（を）すってもいい？ (Is it ok to smoke?)
+
+**ている　→ てる**\
+今、日本語を勉強して（い）るんです。 (I'm studying Japanese currently)\
+明日は雨だと言って（い）たから。 (Because he said it will rain tomorrow)
+
+**Question か**\
+今日、何曜日？ (What day is it today?)
+
+**noun　だ**\
+水曜日（だ） - Usually dropped
+水曜日だよ  - Retained when followed by よ or ね
