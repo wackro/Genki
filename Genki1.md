@@ -1160,3 +1160,28 @@ short form けど、。。。long form (semi formal) 👍
 **noun　だ**\
 水曜日（だ） - Usually dropped
 水曜日だよ  - Retained when followed by よ or ね
+
+#### Volitional form ＋　と思っています
+日本で**働こうと思っています**。\
+I've decided I'm going to work in Japan
+
+もえと日本で**働こうと思います**。\
+I've decided to Marry Moe
+
+☝️ ...思っています　= Resolution already made\
+☝️ ...思います　= Instant decision\
+
+#### て-form + おく
+**私は料理を作って**　おきます。\
+I will make food in preparation
+ 
+**作って　おいて**　ください。\
+Please make it in preparation
+
+**買って　おかな**　きゃいけません。\
+I have to buy in preparation
+
+**そうじして　おいて**　ほうがいいです。\
+It's better to clean in preparation
+
+☝️ て-form + おく = to do something in preparation
