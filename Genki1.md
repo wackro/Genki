@@ -990,7 +990,6 @@ I can write hiragana (... but not kanji/katakana).
 |9.| きゅうかげつ      | きゅうしゅうかん      | **ここの**か  |きゅうかい |
 |10.| **じゅっ**かげつ | **じゅっ**しゅうかん | **とう**か      |じゅっかい |
 
-
 ### Frequenecy in a period
 I go to the cinema twice a month\
 **一か月に二回**映画を見ます。
@@ -1185,3 +1184,52 @@ I have to buy in preparation
 It's better to clean in preparation
 
 ☝️ て-form + おく = to do something in preparation
+
+### Sentences to quality nouns
+これはチョーにもらったかばんです。\
+This is a bag that I got from Cho
+
+☝️ qualifying sentence (SF) noun
+
+### 見える and 見られる, 聞ける and 聞こえる
+パソコンでアニメが**見られます**\
+I **can watch** anime on my PC
+
+ネットで日本の音楽が**聞けます**\
+You **can listen** to Japanese music on the internet
+
+☝️ potential form - abiltity/possibility - active doing
+
+窓で海が**見えます**\
+The sea **is visible** from the window
+
+今朝、鳥の声が聞こえました。\
+I heard birdsong this morning
+
+☝️ 見える / 聞こえる - sensory verbs  - passively sensing
+
+### 〜め　(position in a series)
+一まい**目**を見てください。\
+Please look at the first page
+
+料理の四日**目**に、けんかしました。\
+We had a fight on the fourth day of our holiday.
+
+〜人目 → なんにん目
+〜まい目 → なんまい目
+〜年目 → なんねん目
+〜日目 → なんにち目
+
+がっきを始まって、何週目ですか。\
+This term having started, what week is it?
+
+日本語を勉強して、3年目です\
+Studying Japanese it's my third year
+
+☝️ て-form、（number) 目です。
+
+### Short form + 予定　（よてい）
+週末海に**行く予定**です\
+**I'm scheduled to go** to the sea at the weekend
+
+☝️ short form + よてい
