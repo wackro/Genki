@@ -1234,7 +1234,7 @@ Studying Japanese it's my third year
 
 ☝️ short form + よてい
 
-### あげる、くれる、もらう - Do something for the sake of 
+### あげる、くれる、もらう - Do something for the sake of somebody
 私はけんさんに消しゴムを**消してあげました**。\
 I lent Ken an eraser (he asked/needed it, so i did it for him)
 
@@ -1247,6 +1247,5 @@ Moe lent me an eraser (I asked/needed it, so she did it for me)
 
 私はもえさんに消しゴムを**消してもらいました**。\
 I had Moe lend me an eraser
-
 
 ☝️ て-form くれる - the speaker receives the benefit from somebody
