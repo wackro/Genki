@@ -11,7 +11,7 @@ Where does Ken drink coffee?
 チョーさんは大学**へ**いきます (pronounced え)
 
 ### に as a time particle
-ソラさんは九月時大学**に**行きます。
+ソラさんは九月に大学**に**行きます。
 
 ☝️に is used for: numerical times, days of the week, occasions
 
@@ -37,7 +37,7 @@ Word order is flexible - particles put the sentence together. But, most natural 
 time に location で subject は object を verb
 
 ### Would you like to...
-☝️negativeませｎか
+☝️negativeませんか
 
 Q: おんがくを**聞きません**か。
 A: いいですね。
@@ -135,9 +135,9 @@ I met a quiet person
 ### て form
 ☝️ る　verbs - just drop the る
 
-☝️ う　verbs conjugate according to a patten:
+☝️ う　verbs conjugate according to a pattern:
 
-う、つ、る　→　て\
+う、つ、る　→　って\
 む、ぶ、ぬ　→　んで\
 く　→　いて\
 ぐ　→　いで\
@@ -158,7 +158,7 @@ Please write
 ### Directions
 道を聞く - Ask for directions
 道をおしえる - To give directions
-道をおしえてください - Plese give me directions
+道をおしえてください - Please give me directions
 
 電車にのってください - Please get on a train
 電車におりてください - Please get off a train
@@ -169,7 +169,7 @@ Please get on the Bakerloo Line at Charing Cross. Then please get off at Baker S
 Regent's Park は Baker Street の ちかくです。- Regent's Park is near Baker Street.
 
 ### Describing two or more activities
-きっさてんにいって、ざっしを読みます。- I'll go to the cafe then go home and read a magazine
+きっさてんにいって、ざっしを読みます。- I'll go to the cafe and read a magazine
 
 おきて、シャワーをあびました。- I woke up and got in the shower.
 
@@ -190,11 +190,11 @@ Excuse me, but no.
 ### Prohibition
 となりの人のテストを見てはいけませんよ。
 
-☝️ てはいけませｎ
+☝️ てはいけません
 
 ### Shall I/shall we
 まどをあけましょうか。\
-Shall I close the window?
+Shall I open the window?
 
 お茶を飲みましょうか。\
 Shall we drink tea?
@@ -228,14 +228,14 @@ Lサイズをニまいください。\
 |おいしい|おいしくないです|おいしくなかったです|
 |いい|よくないです|よくなかったです|
 
-### Alernative polite negative
+### Alternative polite negative
 メアリーは日本人**じゃありません**。
 
 ☝️ じゃ + verb ある negative
 
 ### Action in progress
 チョーは雑誌を**よんでいる**\
-Cho is eating
+Cho is reading a magazine
 
 ☝️て-form + いる = ている form
 
@@ -247,7 +247,7 @@ e.g. たべる、のむ.
 I'm a Japanese teacher
 
 私は日本語を**おしえています**。\
-I teach japanese (as an opccupation)
+I teach Japanese (as an occupation)
 
 私はキングスで**はたらいています**。\
 I work at King's College.
@@ -295,7 +295,7 @@ Yui is quiet and clever
 ### Contrasting ideas (..., but)
 ☝️ Full sentence が _______.
 
-けんさんのいえはふるいですが、やさいです。
+けんさんのいえはふるいですが、やすいです。
 Ken's house is old but cheap
 
 ### Counting people
@@ -361,7 +361,7 @@ e.g.　行く　→　行かない\
 
 #### ☝️adj:
 (い-adj): たかくないです。　→　たか**くない**。\
-(な-adj): べんりなです。　→　べんり**じゃない**。
+(な-adj): べんりです。　→　べんり**じゃない**。
   
 #### ☝️noun:
 drop です
@@ -399,8 +399,8 @@ What did Ken say?
 まだけさない**でください。**
 Please don't erase.
 
-Q: けすもいいですか。\
-A: けすはいけません。(you mustn't) / けさないでください (please don't) ← better answer
+Q: けしてもいいですか。\
+A: けしてはいけません。(you mustn't) / けさないでください (please don't) ← better answer
 
 ### Being good/bad at...
 ☝️short form **のが**　じょうず/へた　です。\
@@ -425,8 +425,8 @@ Mary likes tennis.
 I neither like it nor dislike it.
 
 ### が (emphasis particle)
-Q：だれ**が**ざっしをねていますか。(*Who* is sleeping?)\
-A：けんさん**が**ねています。
+Q：だれ**が**ざっしを読んでいますか。(*Who* is reading a magazine?)\
+A：けんさん**が**読んでいます。
 
 Always answer using the same particle (because it repeats the emphasis).
 
@@ -513,7 +513,7 @@ Mary is the person over there who is reading
 Which one is easier, Japanese or English?
 
 Can be shortened to:\
-日本語**と**英語**とどちらが**かんてんですか。
+日本語**と**英語**とどちらが**かんたんですか。
 
 ☝️Question: A　と　B　と　どちら（のほう）が　description?
 
@@ -635,7 +635,7 @@ I'm going by plane.
 はし**で**食べます。\
 I eat with chopsticks.
 
-**あすいて**行きます。\
+**あるいて**行きます。\
 I'm going on foot (verb て-form)
 
 ☝️ Means　で\
@@ -734,7 +734,7 @@ I have just one question
 I slept for just 30 minutes.
 
 卵が一つ**だけ**あります。
-There are just two eggs (and that's about enough)
+There is just one egg (and that's about enough)
 
 ☝️ number + だけ
 
@@ -755,7 +755,7 @@ In Japan I went to lakes and onsens and so on.
 車をうんてんした**ことがありますか**。\
 Have you ever driven a car?
 
-ふじさんを見た**ことがありました**。\
+ふじさんを見た**ことがあります**。\
 I have seen Mt Fuji before (or literally, I have had the experience of seeing Mt Fuji)
 
 なっとうを食べた**ことがありません**。\
@@ -767,7 +767,7 @@ I've never eaten natto (or literally, I haven't had the experience of eating nat
 どう**したんですか**。\
 What happened? (Please explain) (した is する short form past)
 
-「とうしましたか」isn't used so much, because it's too literal.
+「どうしましたか」isn't used so much, because it's too literal.
 
 ☝️ Asking for an explanation to link the cause and effect.
 
@@ -825,7 +825,7 @@ It's better not to bring anything
 
 ☝️ Negative - ない form + ほうがいいです
 
-### ので (Explaining resasons)
+### ので (Explaining reasons)
 食べすぎた**ので**、おなかがいたいんです。← formal
 
 Similar to short form + から (which is semi formal)
@@ -836,7 +836,7 @@ Similar to short form + から (which is semi formal)
 Because she is always kind...
 
 ### なければいけません (have to)
-午後、図書館に行って、本をかりな**ければいません**。\
+午後、図書館に行って、本をかりな**ければいけません**。\
 I **have to** go to the library and borrow a book this afternoon
 
 ☝️ Na-form (ない form but **drop the い**) + ければ + いけません
@@ -951,7 +951,7 @@ It looks like it's about to rain
 
 ☝️ also used for impression/guess and the situation about to happen
 
-### ~てみます (try doing tentantively)
+### ~てみます (try doing tentatively)
 着**てみますか**？\
 Do you want to try it on?
 
@@ -990,7 +990,7 @@ I can write hiragana (... but not kanji/katakana).
 |9.| きゅうかげつ      | きゅうしゅうかん      | **ここの**か  |きゅうかい |
 |10.| **じゅっ**かげつ | **じゅっ**しゅうかん | **とう**か      |じゅっかい |
 
-### Frequenecy in a period
+### Frequency in a period
 I go to the cinema twice a month\
 **一か月に二回**映画を見ます。
 
@@ -1026,7 +1026,7 @@ When I was a kid I wanted manga.
 電車はおくれている**かもしれません**\
 The train might be late
 
-これは会う**かもしれません**よ\
+これは合う**かもしれません**よ\
 This might suit you
 
 ☝️ short form **かも　しれません**\
@@ -1112,7 +1112,7 @@ Do you have (as much as) 20,000 yen? That's good.
 わあ - you find something exciting
 
 ### へえ sound
-へえ - you find somehting amusing, hard to believe or mildly surprising
+へえ - you find something amusing, hard to believe or mildly surprising
 
 ### ~なあ
 Sentence ending particle to express hope, admiration, uncertainty, general emphasis.
@@ -1135,11 +1135,11 @@ Shall we buy a souvenir?
 する　→ しよう
 
 ### けど and が
-けど is interchangable with が, but is more casual\
+けど is interchangeable with が, but is more casual\
 
 long form が、。。。  (formal) 👍\
 short form が、。。。 (written style)\
-long form けど、。。。 (cound sound negative)\
+long form けど、。。。 (could sound negative)\
 short form けど、。。。 (casual) 👍\
 short form けど、。。。long form (semi formal) 👍
 
@@ -1165,7 +1165,7 @@ short form けど、。。。long form (semi formal) 👍
 I've decided I'm going to work in Japan
 
 もえと日本で**働こうと思います**。\
-I've decided to Marry Moe
+I've decided to work in Japan with Moe
 
 ☝️ ...思っています　= Resolution already made\
 ☝️ ...思います　= Instant decision\
@@ -1212,7 +1212,7 @@ I heard birdsong this morning
 一まい**目**を見てください。\
 Please look at the first page
 
-料理の四日**目**に、けんかしました。\
+旅行の四日**目**に、けんかしました。\
 We had a fight on the fourth day of our holiday.
 
 〜人目 → なんにん目
@@ -1220,7 +1220,7 @@ We had a fight on the fourth day of our holiday.
 〜年目 → なんねん目
 〜日目 → なんにち目
 
-がっきを始まって、何週目ですか。\
+がっきが始まって、何週目ですか。\
 This term having started, what week is it?
 
 日本語を勉強して、3年目です\
@@ -1235,17 +1235,17 @@ Studying Japanese it's my third year
 ☝️ short form + よてい
 
 ### あげる、くれる、もらう - Do something for the sake of somebody
-私はけんさんに消しゴムを**消してあげました**。\
+私はけんさんに消しゴムを**貸してあげました**。\
 I lent Ken an eraser (he asked/needed it, so i did it for him)
 
 ☝️ て-form あげる - the speaker benefits somebody
 
-もえさんは私に消しゴムを**消してくれました**。\
+もえさんは私に消しゴムを**貸してくれました**。\
 Moe lent me an eraser (I asked/needed it, so she did it for me)
 
 ☝️ て-form くれる - somebody benefits the speaker
 
-私はもえさんに消しゴムを**消してもらいました**。\
+私はもえさんに消しゴムを**貸してもらいました**。\
 I had Moe lend me an eraser
 
-☝️ て-form くれる - the speaker receives the benefit from somebody
+☝️ て-form もらう - the speaker receives the benefit from somebody
