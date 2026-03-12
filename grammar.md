@@ -1226,7 +1226,7 @@ This term having started, what week is it?
 日本語を勉強して、3年目です\
 Studying Japanese it's my third year
 
-☝️ て-form、（number) 目です。
+☝️ て-form、(number) 目です。
 
 ### Short form + 予定　（よてい）
 週末海に**行く予定**です\
@@ -1249,3 +1249,23 @@ Moe lent me an eraser (I asked/needed it, so she did it for me)
 I had Moe lend me an eraser
 
 ☝️ て-form もらう - the speaker receives the benefit from somebody
+
+### Different degrees of politeness
+
+〜いただけませんか → most polite\
+〜くれませんか.\
+〜くれない？　→ most casual
+
+写真を**取っていただけませんか** ／ **取ってくれますか** / **取ってない**？\
+Could you please take a photo?
+
+### Wishes
+早く着られる**といいですね**。\
+I hope you can wear it soon (lit. '~ that good, isn't it?')
+
+☝️ SF present + といいですね
+
+早くやせられる**といいんですが**。\
+I hope I can lose some weight soon (lit. '~ that good, though')
+
+☝️ SF present + といいんですが
