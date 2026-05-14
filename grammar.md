@@ -1269,3 +1269,107 @@ I hope you can wear it soon (lit. '~ that good, isn't it?')
 I hope I can lose some weight soon (lit. '~ that good, though')
 
 ☝️ SF present + といいんですが
+
+### ～とき (When...)
+☝️ Sentence A とき、 Sentence B\
+☝️ Sentence A = time reference, Sentence B = main event\
+☝️ Tense of the whole sentence comes from the **main event** — A always stays in short form
+
+チョウさんの家に**行ったとき**、ジュースを**飲みました**。\
+When I went to Cho's house, I drank a juice. (the drinking happened after going)
+
+チョウさんの家に**行くとき**、ジュースを**買いました**。\
+On my way to Cho's house, I bought a juice. (the buying happened before arriving)
+
+☝️ Which event finishes first determines whether A is た-form (A done first) or dictionary form (A still ongoing/future when B happens). Think from the main event's point of view.
+
+#### Adjective + とき
+さびしい**とき**、友だちに電話します。 (i-adj — no change)\
+ひま**な**とき、友だちに電話します。 (na-adj — keep な)
+
+#### Noun + とき
+雨**の**とき、どこにも出かけたくないです。\
+When it rains I don't want to go out anywhere.
+
+☝️ Noun の とき (like noun-modifying の)
+
+テレビを**見ているとき**、友だちから電話がありました。\
+While I was watching TV, a friend called.
+
+☝️ Use ている-form inside とき when describing an ongoing action at the time of the main event.
+
+ジュースを飲みました、チョウさんの家に行った**とき**。\
+☝️ The とき clause can also go after the main clause for emphasis on the event.
+
+駅に**着いたとき**、メールしてくれる？\
+When you've arrived at the station, can you text me?
+
+### I'm sorry for... (て-form + すみませんでした)
+ちこく**して**すみませんでした。\
+I'm sorry for being late.
+
+じゅぎょうに**来られなくて**すみませんでした。\
+I'm sorry I couldn't come to class. (to teacher)
+
+夜おそく**電話して**ごめん。\
+Sorry for calling so late. (to friend)
+
+☝️ て-form + すみませんでした (formal) / ごめん (casual)\
+☝️ Structure: (this happened)て、(so I feel this way)
+
+### て-form + emotion (because... I feel ...)
+☝️ Same structure: (cause)て、(feeling). The て-form here means "because of this, so..."\
+☝️ Works with ありがとう / うれしい / かなしい etc.
+
+しゅくだいを**てつだってくれて**ありがとう。\
+Thanks for helping with my homework.
+
+パーティーに**きてくれて**ありがとう。\
+Thanks for coming to the party.
+
+飲み物を**持ってきてくれて**ありがとう。\
+Thanks for bringing drinks.
+
+彼氏と**別れて**かなしかったです。\
+I was sad about breaking up with my boyfriend.
+
+兄が**けっこんして**うれしいです。\
+I'm happy my brother got married.
+
+☝️ For things somebody did *for* you, use てくれて ＋ ありがとう (combines with the くれる benefit grammar).\
+☝️ Past version: ありがとうございました (for something already done)
+
+### Adjective → noun (い→さ / な→さ)
+☝️ Drop the い/な, add **さ** to turn an adjective into a noun (the abstract quality)
+
+高い → 高**さ** (height)\
+大きい → 大き**さ** (size / bigness)\
+長い → 長**さ** (length)\
+べんりな → べんり**さ** (convenience)
+
+ノートは**このぐらいの大きさ**です。\
+The notebook is about this size.
+
+お父さんのせは**どのぐらいの高さ**ですか。\
+About how tall is your dad?
+
+A: お母さんのかみは**どのぐらいの長さ**ですか。\
+B: **このぐらいの長さ**です。
+
+☝️ このぐらい (this much) / どのぐらい (how much) + の + (adj-さ) = "this much (quality)" / "how much (quality)"
+
+#### こまる (to have difficulty / to be troubled)
+ガレージから**出られなくて**、**こまりました**。\
+I had trouble because I couldn't get out of the garage.
+
+母がものをぜんぜん**すてないので**、**こまっています**。\
+I'm in a fix because my mum won't throw anything away.
+
+☝️ Often paired with て-form (cause) or ので clause. Use こまっています for an ongoing state of being troubled.
+
+#### 見つかる vs 見つける (intransitive/transitive pair)
+私は ボール**を** 見つけました。 (I found the ball — transitive)\
+ボール**が** 見つかりました。 (The ball was found / turned up — intransitive)
+
+☝️ Things **が** 見つかる — the thing turns up by itself (no agent)\
+☝️ Person **が** thing **を** 見つける — somebody finds it actively
