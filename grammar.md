@@ -1259,6 +1259,8 @@ I had Moe lend me an eraser
 写真を**取っていただけませんか** ／ **取ってくれますか** / **取ってない**？\
 Could you please take a photo?
 
+-------- claude did from here ------------
+
 ### Wishes
 早く着られる**といいですね**。\
 I hope you can wear it soon (lit. '~ that good, isn't it?')
@@ -1373,3 +1375,83 @@ I'm in a fix because my mum won't throw anything away.
 
 ☝️ Things **が** 見つかる — the thing turns up by itself (no agent)\
 ☝️ Person **が** thing **を** 見つける — somebody finds it actively
+
+### ～そうです (I hear / reportedly)
+
+たけしさんは旅行会社にしゅうしょく**するそうです**。\
+I hear Takeshi is going to get a job at a travel agency.
+
+明日は**はれだそうです**。\
+I hear it'll be sunny tomorrow.
+
+おくさんはすごく**きれいだそうです**。 (な-adj → だそうです)\
+I hear his wife is super beautiful.
+
+ハネムーンはハワイ**だそうです**。 (noun → だそうです)\
+I hear their honeymoon is in Hawaii.
+
+たからくじが**あたったそうです**。 (past stays past)\
+I hear he won the lottery.
+
+☝️ Short form + そうです\
+☝️ Keep the **original tense** of the reported info inside the そうです\
+☝️ For な-adj and nouns, keep the だ: **だそうです**
+☝️ Don't confuse with **looks-like** そうです (which uses the **stem**, not short form):
+
+### ～によると (according to...)
+☝️ Source + **によると**、 + reported sentence + そうです\
+☝️ Pairs naturally with hearsay そうです — it names the source of what you heard
+
+**メアリーさんによると**、たけしさんはざんぎょうをたくさんしているそうです。\
+According to Mary, Takeshi is doing a lot of overtime.
+
+**ニュースによると**、長野で大きい地震があったそうですよ。\
+According to the news, there was a big earthquake in Nagano.
+
+**天気よほうによると**、明日は雨だそうです。\
+According to the weather forecast, it'll rain tomorrow.
+
+### って (casual quoting / hearsay)
+☝️ Casual conversational version of both **そうです** (I hear) and **と言っていました** (somebody said)\
+☝️ Just stick **って** on the end of a short-form sentence\
+☝️ Context tells you whether it's "I hear ___" or "somebody said ___"
+
+#### Hearsay (replaces そうです)
+| Politeness | Form |
+| - | - |
+| Polite | Short form (だ) **そうです** |
+| Less formal | Short form (だ) **そう** |
+| Casual | Short form (だ) **って** |
+
+明日は**はれだって**。\
+I hear it's sunny tomorrow.
+
+寒く**なるって**。\
+I hear it'll get cold.
+
+土曜日はつごうが**悪いって**。\
+I hear Saturday's not convenient (for them).
+
+#### Reporting speech (replaces と言っていました)
+| Politeness | Form |
+| - | - |
+| Polite | Short form (だ) **と言っていました** |
+| Less formal | Short form (だ) **って言っていた** |
+| Casual | Short form (だ) **って** |
+
+メアリーさんは何**て言っていた**？\
+What did Mary say? (casual — note 何て not 何と)
+
+ジョンさんはたからくじに**あたったって**。\
+(I hear / he said) John won the lottery.
+
+#### In conversation
+A: 知ってる？ ジョンさんはたからくじに**あたったって**。\
+Did you hear? They say John won the lottery.\
+B: えっ、そうなの？\
+Eh, really?
+
+☝️ って is doing double duty here — it can mean "I hear that..." (hearsay) or "[somebody] said that..." (quote). The conversation context resolves which.\
+☝️ With nouns and na-adj, the だ is often dropped in very casual speech (はれって vs はれだって — both heard).
+
+-------- claude did to here ------------
