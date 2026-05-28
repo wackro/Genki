@@ -1455,3 +1455,28 @@ Eh, really?
 ☝️ With nouns and na-adj, the だ is often dropped in very casual speech (はれって vs はれだって — both heard).
 
 -------- claude did to here ------------
+
+
+### 〜たら、〜 (if/when)
+子供が生まれ**たら**、大きい家を買います。\
+**If** a baby is born, I will buy a big house
+
+２６歳ぐらいになっ**たら**、結婚したいです。\
+I want to get married **when** I turn 26
+
+☝️ (A) ta-formら、(B)present。\
+☝️ If (A) happens, (B) will happen\
+☝️ When the condition (A) is met, (B) will happen\
+
+### …なくてもいい
+心配し**なくてもいい**よ。\
+You **don't have to** worry
+
+☝️ Don't have to / need not
+
+| Phrase | Conjugation |
+| -- | -- |
+| You mustn't go | 行っては**いけません** (it's **prohibited** to go) |
+| You have to go | 行かなきゃ**いけません** (it's **prohibited not to** go) |
+| You may go | 行って**もいい**ですよ (it's **also good** to go) |
+| You don't have to go | 行かな**くてもいい**です (it's **also good not to** go) |
