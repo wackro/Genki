@@ -1485,8 +1485,8 @@ You **don't have to** worry
 スーパーマンみたいですね。\
 He looks like Superman doesn't he? (resemblance)
 
-出かけるみたいです。
+出かけるみたいです。\
 She appears to be going out. (deduction)
 
-☝️ Short form みたい(な）
+☝️ Short form みたい(な）\
 ☝️ It appears to be the case (deduction) / It looks like something (resemblance)
