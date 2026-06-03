@@ -1480,3 +1480,13 @@ You **don't have to** worry
 | You have to go | 行かなきゃ**いけません** (it's **prohibited not to** go) |
 | You may go | 行って**もいい**ですよ (it's **also good** to go) |
 | You don't have to go | 行かな**くてもいい**です (it's **also good not to** go) |
+
+### 〜みたい（な）
+スーパーマンみたいですね。\
+He looks like Superman doesn't he? (resemblance)
+
+出かけるみたいです。
+She appears to be going out. (deduction)
+
+☝️ Short form みたい(な）
+☝️ It appears to be the case (deduction) / It looks like something (resemblance)
