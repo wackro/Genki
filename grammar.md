@@ -1482,11 +1482,27 @@ You **don't have to** worry
 | You don't have to go | 行かな**くてもいい**です (it's **also good not to** go) |
 
 ### 〜みたい（な）
-スーパーマンみたいですね。\
-He looks like Superman doesn't he? (resemblance)
+スーパーマン**みたい**ですね。\
+He **looks like** Superman doesn't he? (resemblance)
 
-出かけるみたいです。\
-She appears to be going out. (deduction)
+出かける**みたい**です。\
+She **appears** to be going out. (deduction)
+
+このくもりは、何**みたいだ**と思いますか？\
+What do you think this cloud **looks like**?
 
 ☝️ Short form みたい(な）\
 ☝️ It appears to be the case (deduction) / It looks like something (resemblance)
+
+### 〜前に　・　〜てから
+しゅうしょくして**から**、プロポースします。\
+**After** I get a job I will propose
+
+☝️ て-form　から、…
+☝️ After (A), (B)
+
+そつぎょうする前に、指輪が欲しいです。\
+Before you graduate, I want a ring
+
+☝️ short form 前に、…
+☝️ Before (A), (B)
